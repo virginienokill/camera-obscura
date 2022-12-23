@@ -40,3 +40,48 @@ Apparemment, un objectif de prise du vue qui forme une image reprise directement
 Après il faut chercher la bonne association des deux objectifs, focales, positions…
 
 E
+
+
+------------------------------
+
+Tu as vu dans la video, la distance entre l'objectif et la plaque est assez grande. Au moins 3 ou 4 m.
+
+J'ai trouvé cette discussion :
+
+https://www.photo.net/discuss/threads/what-is-a-process-lens.51348/
+
+Je ne comprends pas tout mais tu as vu Kelly Flaningan qui dit :  
+Process lenses are what we use currently on our process camera that is 17 feet long; and has a 4x8 foot copy board. The illumination is with 6 KW pulsed Xenons. Our APO Ronars are 14,24,36 inch focal lengths. The lenses are stopped down to F22 because of field curvature that is IS a property of the APO Ronar lens. 
+soit 5m de recul pour une image de : 2,5 x 1,2 m avec des objectifs  APO Ronar (350mm/600mm/900mm).
+
+C'est à peu prêt ce qui m'intéresse. Est ce que tu comprends la même chose que moi ?
+
+J'ai trouvé ça sur ebay :
+
+En 360mm
+
+https://www.ebay.fr/i/202899128814?chn=ps&norover=1&mkevt=1&mkrid=709-134431-41854-0&mkcid=2&itemid=202899128814&targetid=885364217880&device=c&mktype=pla&googleloc=9055226&poi=&campaignid=9561937851&mkgroupid=98971055435&rlsatarget=pla-885364217880&abcId=1139516&merchantid=116423152&gclid=CjwKCAjwi_b3BRAGEiwAemPNUzZ-gL2h3nXZYYjEvluWpCQeEz_tyDjaON0IaFT58pJzRIosA8ud5BoC170QAvD_BwE
+
+En focale plus longue, c'est plus cher...
+
+https://www.ebay.fr/itm/Zeiss-Apo-Tessar-900mm-9-FAST-large-format-lens-800-1000-1200-Ronar-Germinar/293541985879?hash=item4458773e57:g:ld0AAOSwMytdySoV
+
+Bises
+
+Beb
+
+
+Salut Bébert,
+
+en attendant de trouver une vraie solution optique, voilà 2 liens instructifs
+
+https://www.johnchiara.com/films
+
+https://galerie-photo.com/stenope.html
+
+
+Pour l’instant, ce que j’ai lu, c’est que justement une image virtuelle ne se projette pas ( en même temps, ça paraît logique !)
+Je cherche encore !
+bises
+E
+
