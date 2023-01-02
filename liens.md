@@ -6,3 +6,4 @@
 - https://www.johnchiara.com/films
 - https://galerie-photo.com/stenope.html
 - www.camleyphotographic.com/
+- http://www.galerie-photo.info/forumgp/read.php?3,239522
