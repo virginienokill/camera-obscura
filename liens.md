@@ -7,3 +7,5 @@
 - https://galerie-photo.com/stenope.html
 - www.camleyphotographic.com/
 - http://www.galerie-photo.info/forumgp/read.php?3,239522
+- https://www.ilfordphoto.com/harman-direct-positive-paper-roll
+- https://www.macodirect.de/en/paper/direct-positive-papers/
