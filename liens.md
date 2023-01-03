@@ -9,3 +9,5 @@
 - http://www.galerie-photo.info/forumgp/read.php?3,239522
 - https://www.ilfordphoto.com/harman-direct-positive-paper-roll
 - https://www.macodirect.de/en/paper/direct-positive-papers/
+- https://www.camera-obscura.co.uk/attractions/the-camera-obscura
+- http://www.camera-obscura.org.uk/Camera_Obscura/Welcome.html
