@@ -1,10 +1,10 @@
-- du 7/12/2022 au 14/12/2022 : Graulhet (81) , construction maquette "les yeux dans le dos"
+- du 7/12/2022 au 14/12/2022 : Graulhet - Nokill (81) , construction maquette "les yeux dans le dos"
 - du 6/3/2023 au 8/3/2022 : Toulouse QDS , contact fablab Airbus
 - du 1/4/2023 au 6/4/2023 : Graulhet (81) , aménagement caravane
 - du 9/5/2023 au 13/5/2023 : Toulouse QDS , contact fablab Airbus
 - du 10/6/2023 au 18/6/2023 : Mirepoix (09) , test caravane
-- en juillet 2023 : Ramonville (31) , test caravane
-- en été 2023 : Graulhet ou Marseille , dessin remorque 
+- en juillet 2023 : Ramonville - Arto (31) , test caravane
+- en été 2023 : Graulhet - Nokill (81) ou Marseille - Nokill (13), dessin remorque 
 - en automne 2023 : Maxeville-Michto (53) , construction remorque
 - Hivers 2024 : Assier (46) - Des clous , écriture et aménagement remorque
 - printemps 2024 : Mende - Scènes croisées de Lozère, écriture et mise en scène
