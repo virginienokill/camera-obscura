@@ -6,8 +6,8 @@
 - en juillet 2023 : Ramonville - Arto (31) , test caravane
 - en été 2023 : Graulhet - Nokill (81) ou Marseille - Nokill (13), dessin remorque 
 - en automne 2023 : Maxeville-Michto (54) , construction remorque
-- Hivers 2024 : Assier (46) - Des clous , écriture et aménagement remorque
-- Hivers 2024 : Auch (32) - Circa - écriture et jeu
+- Hiver 2024 : Assier (46) - Des clous , écriture et aménagement remorque
+- Hiver 2024 : Auch (32) - Circa - écriture et jeu
 - printemps 2024 : Mende - Scènes croisées de Lozère, écriture et mise en scène
 - printemps 2024 : Nimes-Périscope , écriture et mise en scène
 - Juin juillet 2024 : Tarbes-Le Parvis, mise en scène
