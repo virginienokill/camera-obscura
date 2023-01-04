@@ -6,6 +6,8 @@
 - en juillet 2023 : Ramonville (31) , test caravane
 - en été 2023 : Graulhet ou Marseille , dessin remorque 
 - en automne 2023 : Maxeville-Michto (53) , construction remorque
-- printemps 2024 : Mende , Scènes croisées de Lozère mise en scène
-- Juin juillet 2024 : Tarbes-Le Parvis, 
+- Hivers 2024 : Assier (46) - Des clous , écriture et aménagement remorque
+- printemps 2024 : Mende - Scènes croisées de Lozère, écriture et mise en scène
+- printemps 2024 : Nimes-Périscope , écriture et mise en scène
+- Juin juillet 2024 : Tarbes-Le Parvis, mise en scène
 - du 23/7/2024 au 1/8/2024, Mirepoix (09) , Finitions
