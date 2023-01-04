@@ -1,0 +1,2 @@
+- du 7/12/2022 au 14/12/2022 : Graulhet (81) , construction maquette "les yeux dans le dos"
+- du 6/3/2023 au 8/3/2022 : Toulouse QDS , contact fablab Airbus
