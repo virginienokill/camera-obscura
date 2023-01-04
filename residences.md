@@ -1,14 +1,14 @@
-- du 7/12/2022 au 14/12/2022 : Graulhet - Nokill (81), construction maquette "les yeux dans le dos"
-- du 6/3/2023 au 8/3/2022 : Toulouse (31) QDS, contact fablab Airbus
+- du 7/12/2022 au 14/12/2022 : Graulhet (81) - Nokill, construction maquette "les yeux dans le dos"
+- du 6/3/2023 au 8/3/2022 : Toulouse (31) - QDS, contact fablab Airbus
 - du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons, aménagement caravane
 - du 9/5/2023 au 13/5/2023 : Toulouse (31) QDS, contact fablab Airbus
 - du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima, test caravane
 - en juillet 2023 : Ramonville (31) - Arto, test caravane
-- en été 2023 : Graulhet - Nokill (81) ou Marseille - Nokill (13), dessin remorque 
-- en automne 2023 : Maxeville (54)- Michto , construction remorque
-- Hiver 2024 : Assier (46) - Des clous , écriture et aménagement remorque
-- Hiver 2024 : Auch (32) - Circa - écriture et jeu
+- en été 2023 : Graulhet (81) - Nokill ou Marseille (13) - Nokill, dessin remorque 
+- en automne 2023 : Maxeville (54) - Michto, construction remorque
+- Hiver 2024 : Assier (46) - Des clous, écriture et aménagement remorque
+- Hiver 2024 : Auch (32) - Circa, écriture et jeu
 - printemps 2024 : Mende - Scènes croisées de Lozère, écriture et mise en scène
-- printemps 2024 : Nimes-Périscope , écriture et mise en scène
-- Juin juillet 2024 : Tarbes-Le Parvis, mise en scène
-- du 23/7/2024 au 1/8/2024, Mirepoix (09) , Finitions
+- printemps 2024 : Nimes (30) - Périscope, écriture et mise en scène
+- Juin juillet 2024 : Tarbes (65) - Le Parvis, mise en scène
+- du 23/7/2024 au 1/8/2024, Mirepoix (09) - Mima, Finitions
