@@ -8,7 +8,7 @@
 - en automne 2023 : Maxeville (54) - Michto, construction remorque
 - Hiver 2024 : Assier (46) - Des clous, écriture et aménagement remorque
 - Hiver 2024 : Auch (32) - Circa, écriture et jeu
-- printemps 2024 : Mende - Scènes croisées de Lozère, écriture et mise en scène
+- printemps 2024 : Mende (48) - Scènes croisées de Lozère, écriture et mise en scène
 - printemps 2024 : Nimes (30) - Périscope, écriture et mise en scène
 - Juin juillet 2024 : Tarbes (65) - Le Parvis, mise en scène
 - du 23/7/2024 au 1/8/2024, Mirepoix (09) - Mima, Finitions
