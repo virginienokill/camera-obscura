@@ -3,11 +3,11 @@
 - du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons, aménagement caravane
 - du 9/5/2023 au 13/5/2023 : Toulouse (31) QDS, contact fablab Airbus
 - du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima, test caravane
-- en juillet 2023 : Ramonville (31) - Arto, test caravane
+- en juillet 2023 (du 11 au 13 ou du 25 au 27) : Ramonville (31) - Arto, test caravane
 - en été 2023 : Graulhet (81) - Nokill ou Marseille (13) - Nokill, dessin remorque 
 - en automne 2023 : Maxeville (54) - Michto, construction remorque
 - Novembre 2023 ou avril 2024 : Assier (46) - Des clous, écriture et aménagement remorque
-- fin hiver/printemps 2024 : Auch (32) - Circa, écriture et jeu
+- fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa, écriture et jeu
 - printemps 2024 : Mende (48) - Scènes croisées de Lozère, écriture et mise en scène
 - printemps 2024 : Nimes (30) - Périscope, écriture et mise en scène
 - Juin juillet 2024 : Tarbes (65) - Le Parvis, mise en scène
