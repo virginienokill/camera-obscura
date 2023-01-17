@@ -11,3 +11,5 @@
 - https://www.macodirect.de/en/paper/direct-positive-papers/
 - https://www.camera-obscura.co.uk/attractions/the-camera-obscura
 - http://www.camera-obscura.org.uk/Camera_Obscura/Welcome.html
+- https://rayform.ch/
+- https://www.youtube.com/watch?v=wk67eGXtbIw
