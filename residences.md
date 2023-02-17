@@ -1,5 +1,5 @@
 - du 7/12/2022 au 14/12/2022 : Graulhet (81) - Nokill, construction maquette "les yeux dans le dos"
-- du 2/3/2023 au 4/3/2022 : Graulhet (81) - Nokill, construction maquette 3 - construction double miroir - projection diapo
+- du 2/3/2023 au 4/3/2022 : Graulhet (81) - Nokill, construction maquette 3 - construction double miroir - lanterna magica
 - du 6/3/2023 au 8/3/2022 : Toulouse (31) - QDS, contact fablab Airbus
 - du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons, aménagement caravane
 - du 9/5/2023 au 13/5/2023 : Toulouse (31) QDS, contact fablab Airbus
