@@ -15,3 +15,4 @@
 - https://thomas-mezzanotte.squarespace.com/
 - https://olafureliasson.net/artwork/camera-obscura-fuer-die-donau-2004/
 - https://youtu.be/qvwpDIlN25o
+- https://en.wikipedia.org/wiki/Magic_lantern
