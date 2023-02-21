@@ -28,7 +28,7 @@
 - Double CO sur un bateau sur le danube https://olafureliasson.net/artwork/camera-obscura-fuer-die-donau-2004/
 - CO sur une plage vers San Fransisco https://youtu.be/qvwpDIlN25o
 
-# Miroirs caustiques
+## Miroirs caustiques
 
 - Rayform, fabriquant de miroirs caustiques https://rayform.ch/
 - Vidéo à propos des miroirs caustiques de rayform https://www.youtube.com/watch?v=wk67eGXtbIw
@@ -37,11 +37,11 @@
 
 - Lanternes magiques https://en.wikipedia.org/wiki/Magic_lantern
 
-# Historique
+## Historique
 
 - Objectif de CO avec prisme intégré 18e sciècle : http://www.niepce-daguerre.com/objectif_de_camera_obscura.html
 
-# Antotypes
+## Antotypes
 
 - Anthotypes: explore the darkroom in your gardern - Le livre de ref http://leonlenclos.net/pro/pirate/anthotypes-explore-the-darkroom-in-your-garden-and-make-photographs-using-plants-1466261005-9781466261006_compress.pdf
 - Recette à base d'épinard http://wiki.scienceamusante.net/index.php/Les_anthotypes
