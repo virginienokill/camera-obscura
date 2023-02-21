@@ -4,4 +4,4 @@ Spectacle en création
 
 - [Dossier artistique](dossier-camera-obscura-2024-web.pdf)
 - [liens](liens)
-- [questionnements techniques](question-tech)
+- [questionnements techniques](questions-tech)
