@@ -1,6 +1,4 @@
-Camera obscura
-
-Questionnements et besoins techniques
+# Camera obscura - Questionnements et besoins techniques
 
 Camera Obscura est un spectacle de rue qui plonge le spectateur dans un dispositif cinématographique ancestral, sans pellicule, ni vidéo, ni électricité, et qui n'utilise comme énergie que celle du soleil et des comédiens. Le public s'installe dans un lieu fermé, une chambre noire (camion ou remorque), et assiste à la projection d'un film dont les images sont des captations du monde extérieur qui transitent par un dispositif optique fait d'objectifs, de prismes et de miroirs. Les sons et la musique sont produits et interprétés en direct grâce à un ensemble d'instruments acoustiques et mécaniques : gramophones, automates sonores, cymbalum, tuyaux et pavillons acoustiques.
 
@@ -41,6 +39,8 @@ Notre projet s’inscrit dans la continuité du travail de la Cie, où nous cher
 Aussi, il nous semble important de privilégier au maximum la récupération de matériaux et d’objets obsolètes pour leur redonner vie au travers d’une démarche artistique.
 
 ### 0.5 Schéma simplifié du dispositif
+
+ ![plan d'ensemble](plans/ensemble.png)
 
 A : Acteur	S : Système optique	O : Opérateur		E : Écran	R : Regardeur
 
