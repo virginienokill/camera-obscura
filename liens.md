@@ -1,18 +1,49 @@
-- https://fstoppers.com/diy/photographer-creates-gigantic-ultra-large-format-digital-camera-571295
-- http://www.prograf.ru/rodenstock/largeformat_en.html
-- https://photographylife.com/ultra-large-format-cameras
-- https://www.photo.net/forums/topic/48909-what-is-a-process-lens/
-- https://www.photo.net/discuss/threads/what-is-a-process-lens.51348/
-- https://www.johnchiara.com/films
-- https://galerie-photo.com/stenope.html
-- http://www.galerie-photo.info/forumgp/read.php?3,239522
-- https://www.ilfordphoto.com/harman-direct-positive-paper-roll
-- https://www.macodirect.de/en/paper/direct-positive-papers/
-- https://www.camera-obscura.co.uk/attractions/the-camera-obscura
-- http://www.camera-obscura.org.uk/Camera_Obscura/Welcome.html
-- https://rayform.ch/
-- https://www.youtube.com/watch?v=wk67eGXtbIw
-- https://thomas-mezzanotte.squarespace.com/
-- https://olafureliasson.net/artwork/camera-obscura-fuer-die-donau-2004/
-- https://youtu.be/qvwpDIlN25o
-- https://en.wikipedia.org/wiki/Magic_lantern
+## Photo très grand format
+
+- Article sur des photographes très grand format https://fstoppers.com/diy/photographer-creates-gigantic-ultra-large-format-digital-camera-571295
+- Article de blog sur l'ultra-grand format https://photographylife.com/ultra-large-format-cameras
+- Definition de process lens discutée sur un forum de photo https://www.photo.net/forums/topic/48909-what-is-a-process-lens/
+- John Chiara photographe qui a une CO remorque pour faire du tres grand format https://www.johnchiara.com/films
+
+## Objectifs tres grands formats / process lens
+
+- Doc technique détaillé sur les objectifs grans formats de Rodenstock http://www.dmin-dmax.fr/chambre/archives_techniques/rodenstock_2000.html
+
+## Sténopé 
+
+- Tuto détaillé sur la photo au sténopé https://galerie-photo.com/stenope.html
+
+## Papier inversible 
+
+- Discussion autour du papier inversible sur un forum de photo  http://www.galerie-photo.info/forumgp/read.php?3,239522
+- DIRECT POSITIVE PAPER harman chez Ilford https://www.ilfordphoto.com/harman-direct-positive-paper-roll
+- direct positiv paper, differntes refs (eshop) https://www.macodirect.de/en/paper/direct-positive-papers/
+
+
+## Camera obscura
+
+- Camera Obscura & World of Illusions , un musée à Édinburgh https://www.camera-obscura.co.uk/attractions/the-camera-obscura
+- Site très riche à propos de la CO par un restaurateur/créateur de CO http://www.camera-obscura.org.uk/Camera_Obscura/Welcome.html
+- Thomas Mezzanotte, Artiste aillant notament construit une CO dans une sorte de tente https://thomas-mezzanotte.squarespace.com/
+- Double CO sur un bateau sur le danube https://olafureliasson.net/artwork/camera-obscura-fuer-die-donau-2004/
+- CO sur une plage vers San Fransisco https://youtu.be/qvwpDIlN25o
+
+# Miroirs caustiques
+
+- Rayform, fabriquant de miroirs caustiques https://rayform.ch/
+- Vidéo à propos des miroirs caustiques de rayform https://www.youtube.com/watch?v=wk67eGXtbIw
+
+## Lanternes magiques
+
+- Lanternes magiques https://en.wikipedia.org/wiki/Magic_lantern
+
+# Historique
+
+- Objectif de CO avec prisme intégré 18e sciècle : http://www.niepce-daguerre.com/objectif_de_camera_obscura.html
+
+# Antotypes
+
+- Anthotypes: explore the darkroom in your gardern - Le livre de ref http://leonlenclos.net/pro/pirate/anthotypes-explore-the-darkroom-in-your-garden-and-make-photographs-using-plants-1466261005-9781466261006_compress.pdf
+- Recette à base d'épinard http://wiki.scienceamusante.net/index.php/Les_anthotypes
+- Le végétal est photographie (Mémoire) https://www.esam-c2.fr/IMG/UserFiles/docs/memoires/2017_pelletier_marieve.pdf
+- Mary Somerville, inventeuse oubliée de l'antotypie  https://en.wikipedia.org/wiki/Mary_Somerville
