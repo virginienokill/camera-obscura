@@ -1,3 +1,7 @@
+## Théorie
+
+- Schema interactifs d'optique géométrique https://phyanim.sciences.univ-nantes.fr/optiqueGeo/index.php
+
 ## Photo très grand format
 
 - Article sur des photographes très grand format https://fstoppers.com/diy/photographer-creates-gigantic-ultra-large-format-digital-camera-571295
