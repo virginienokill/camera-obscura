@@ -2,6 +2,7 @@
 
 - Schema interactifs d'optique géométrique https://phyanim.sciences.univ-nantes.fr/optiqueGeo/index.php
 - chaîne youtube de photo avec pas mal de contenu intéressant https://youtube.com/@PhotoGraal
+- geogebra https://www.geogebra.org/calculator/hahmryyn
 
 ## Soufflets
 
