@@ -48,6 +48,18 @@
 - Rayform, fabriquant de miroirs caustiques https://rayform.ch/
 - Vidéo à propos des miroirs caustiques de rayform https://www.youtube.com/watch?v=wk67eGXtbIw
 
+## True mirrors
+
+- La boutique https://store.truemirror.com/
+- La video ou le createur dit qu'il utilise des first surface mirror https://www.youtube.com/watch?v=oHeOf9MZ49o
+- la video du mec là https://www.youtube.com/watch?v=x2owiSx0biU
+
+## First surface mirror
+
+- How to Make a Front Surface Mirror (Quick & Easy Techniques) https://medium.com/geekculture/how-to-make-a-front-surface-mirror-quick-easy-techniques-c1ba3ecf6347
+- FSM (Fournisseur) https://firstsurfacemirror.com/
+
+
 ## Lanternes magiques
 
 - Lanternes magiques https://en.wikipedia.org/wiki/Magic_lantern
