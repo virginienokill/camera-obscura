@@ -50,6 +50,7 @@
 
 ## True mirrors
 
+- Prisme en toit d'Amici https://fr.wikipedia.org/wiki/Prisme_en_toit_d%27Amici
 - La boutique https://store.truemirror.com/
 - La video ou le createur dit qu'il utilise des first surface mirror https://www.youtube.com/watch?v=oHeOf9MZ49o
 - la video du mec là https://www.youtube.com/watch?v=x2owiSx0biU
