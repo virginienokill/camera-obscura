@@ -25,6 +25,8 @@
 ## Sténopé 
 
 - Tuto détaillé sur la photo au sténopé https://galerie-photo.com/stenope.html
+- Video stenopé numérique https://www.youtube.com/watch?v=yWew2kOWTiA
+
 
 ## Papier inversible 
 
