@@ -3,6 +3,14 @@
 - Schema interactifs d'optique géométrique https://phyanim.sciences.univ-nantes.fr/optiqueGeo/index.php
 - chaîne youtube de photo avec pas mal de contenu intéressant https://youtube.com/@PhotoGraal
 
+## Soufflets
+
+- Tuto détaillé général https://www.galerie-photo.com/construire-soufflet-chambre-photo.html
+- Tuto plus précis http://www.disactis.com/soufflet/soufflet.php
+- Article de blog avec photos HD d'un vieu soufflet https://delalumieredanslatelier.blogspot.com/2019/06/appareil-photo-soufflet-marque-nagel-n.html
+
+
+
 ## Photo très grand format
 
 - Article sur des photographes très grand format https://fstoppers.com/diy/photographer-creates-gigantic-ultra-large-format-digital-camera-571295
