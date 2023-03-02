@@ -54,11 +54,10 @@
 - La video ou le createur dit qu'il utilise des first surface mirror https://www.youtube.com/watch?v=oHeOf9MZ49o
 - la video du mec là https://www.youtube.com/watch?v=x2owiSx0biU
 
-## First surface mirror
+## First surface mirror
 
 - How to Make a Front Surface Mirror (Quick & Easy Techniques) https://medium.com/geekculture/how-to-make-a-front-surface-mirror-quick-easy-techniques-c1ba3ecf6347
 - FSM (Fournisseur) https://firstsurfacemirror.com/
-
 
 ## Lanternes magiques
 
