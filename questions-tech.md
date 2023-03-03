@@ -78,6 +78,7 @@ Nous avons identifié trois moyens d’actions:
 
 - Obscurité de la salle.
 
+- Rendement de l'écran.
 
 
 #### 1.1.1.  Choix des périodes de jeu
@@ -108,6 +109,14 @@ La salle où le public est installée doit être la plus obscure possible. Cela 
 
 - Une parfaite étanchaité lumineuse de la salle.
 - Les murs de la salle faits dans des materiaux sombres, reflétants très peu la lumière, afin que la lumière de l’écran “bave” le moins possible sur les murs.
+
+#### 1.1.4. Rendement de l'écran
+
+L'image est projettée en retroprojecion (par l'arriére de l'écran). Differentes qualités de toiles de retroprojection existent.
+
+Après plusieurs essais nous avons selectionné le Teviloj Retro Translucide.
+
+![test toiles retroproj](img/test-toiles-retroproj.jpg)
 
 ### 1.2. Retournement de l’image
 
