@@ -11,6 +11,7 @@
 
 - Tuto détaillé général https://www.galerie-photo.com/construire-soufflet-chambre-photo.html
 - Tuto plus précis http://www.disactis.com/soufflet/soufflet.php
+- Tuto de monsieur Smets https://docplayer.fr/12405417-Fabriquez-votre-soufflet.html
 - Article de blog avec photos HD d'un vieu soufflet https://delalumieredanslatelier.blogspot.com/2019/06/appareil-photo-soufflet-marque-nagel-n.html
 
 
