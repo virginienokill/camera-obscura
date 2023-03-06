@@ -61,6 +61,11 @@
 - How to Make a Front Surface Mirror (Quick & Easy Techniques) https://medium.com/geekculture/how-to-make-a-front-surface-mirror-quick-easy-techniques-c1ba3ecf6347
 - FSM (Fournisseur) https://firstsurfacemirror.com/
 
+## prismes
+
+- tuto prisme eau 
+https://www.instructables.com/Optical-Water-Prism/
+
 ## Lanternes magiques
 
 - Lanternes magiques https://en.wikipedia.org/wiki/Magic_lantern
