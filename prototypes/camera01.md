@@ -13,8 +13,8 @@ Toile de retroprojection (translucide/dépoli) tendue sur cadre acier
 ### objectif
 Process lens Zeiss S-TESSAR 5,6/300
 ### accessoires
-L'objectif fixé sur un clamp coulisse sur 2 rails
-Un soufflet en tissus fixé entre la planchette et le chassis maintient l'obscurité.
+- L'objectif fixé sur un clamp coulisse sur 2 rails
+- Un soufflet en tissus fixé entre la planchette et le chassis maintient l'obscurité.
 ## Évaluation des avantages et des inconvénients
 ### +
 - image très claire
