@@ -1,6 +1,6 @@
 #  Chambre grand format
 ## Description générale
-En regardant dans le viseur situé à l'arrière de cette camera obscura, on observe une image à l'envert d'environ 100 cm x 73 cm (format 1,37) de ce qui est devant nous.
+En regardant dans le viseur situé à l'arrière de cette camera obscura, on observe une image à l'envers d'environ 100 cm x 73 cm (format 1,37) de ce qui est devant nous.
 ## Allure
 Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur fait office de viseur de champ. Elle est prolongée par un long soufflet construit en deux partie et se termine par le support de l'objectif, lui-même fixé sur un pied. La forme evoque les chambres photographiques grand format. Un pied intermédiaire limite l'affaissement du souflet.
 ## Matériaux
