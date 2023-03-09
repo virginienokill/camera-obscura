@@ -5,13 +5,13 @@ En regardant à l'intérieur de cette camera obscura, on découvre une image à 
 Une boite noire de forme complexe est fixée sur un pied de projecteur. À hauteur d'yeux on trouve un viseur en forme de lunette de protection. Au dessus, une vitre protège les miroirs et l'objectif.
 ## Matériaux
 ### Chassis
-Tube d'acier soudé (20 mm x 20 mm).
+- Tube d'acier soudé (20 mm x 20 mm).
 ### parrois
-Panneau de plastique alvéolaire
+- Panneau de plastique alvéolaire
 ### écran
-Toile de retroprojection (translucide/dépoli) tendue sur cadre acier
+- Toile de retroprojection (translucide/dépoli) tendue sur cadre acier
 ### objectif
-Process lens Zeiss S-TESSAR 5,6/300
+- Process lens Zeiss S-TESSAR 5,6/300
 ### accessoires
 - L'objectif fixé sur un clamp coulisse sur 2 rails
 - Un soufflet en tissus fixé entre la planchette et le chassis maintient l'obscurité.
