@@ -1,0 +1,31 @@
+Les prototypes de camera obscura
+================================
+
+D'ici, on peut accéder aux fiches des différents protos de camera obscura.
+
+Les Protos
+----------
+
+- [Camera obscura 01 - Les yeux dans le dos](camera01.md)
+- [Camera obscura 02 - Chambre à antotype](camera02.md)
+- [Camera obscura 03 - Chambre grand format](camera03.md)
+
+Autres idées de caméra obscura à construire :
+
+- [Camera obscura 04 - Chambre sprinter](camera04.md)
+- [Camera obscura 05 - Chambre remorque](camera05.md)
+
+
+Rédaction des fiches
+---------------------
+
+Il y a un fichier texte par robot qui décrit les caractéristiques suivantes :
+
+- Nom 
+- Description générale
+- Allure
+- Matériaux 
+- Hypothèses de construction, description technique
+- Évaluation des avantages/inconvénients des choix techniques
+- Améliorations envisagées
+- Moment envisagé pour la construction et/ou les améliorations
