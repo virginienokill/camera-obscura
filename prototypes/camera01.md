@@ -1,8 +1,22 @@
-- Nom 
-- Description générale
-- Allure
-- Matériaux 
-- Hypothèses de construction, description technique
-- Évaluation des avantages/inconvénients des choix techniques
-- Améliorations envisagées
-- Moment envisagé pour la construction et/ou les améliorations
+#  Les Yeux Dans Le Dos 
+## Description générale
+En regardant à l'intérieur de cette camera obscura, on découvre une image à l'endroit d'environ 30 cm x 30 cm de ce qui est derrière nous.
+## Allure
+Une boite noire de forme complexe, placée sur un pied de projecteur. À hauteur d'humain, un viseur en forme de lunette de protection. Au dessus, une vitre protège les miroirs et l'objectif.
+## Matériaux
+### Chassis
+Tube d'acier soudé (20 mm x 20 mm).
+### parrois
+Panneau de plastique alvéolaire
+### écran
+Toile de retroprojection (translucide/dépoli) tendue sur cadre acier
+### objectif
+Process lens Zeiss S-TESSAR 5,6/300
+### accessoires
+Rail
+## Hypothèses de construction, description technique
+## Évaluation des avantages et des inconvénients
+### +
+### -
+## Améliorations envisagées
+## Moment envisagé pour la construction et/ou les améliorations
