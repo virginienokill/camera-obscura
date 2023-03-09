@@ -2,7 +2,7 @@
 ## Description générale
 En regardant à l'intérieur de cette camera obscura, on découvre une image à l'endroit d'environ 30 cm x 30 cm de ce qui est derrière nous.
 ## Allure
-Une boite noire de forme complexe est fixée sur un pied de projecteur. À hauteur d'humain on trouve un viseur en forme de lunette de protection. Au dessus, une vitre protège les miroirs et l'objectif.
+Une boite noire de forme complexe est fixée sur un pied de projecteur. À hauteur d'yeux on trouve un viseur en forme de lunette de protection. Au dessus, une vitre protège les miroirs et l'objectif.
 ## Matériaux
 ### Chassis
 Tube d'acier soudé (20 mm x 20 mm).
