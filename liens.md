@@ -3,11 +3,15 @@
 - Schema interactifs d'optique géométrique https://phyanim.sciences.univ-nantes.fr/optiqueGeo/index.php
 - chaîne youtube de photo avec pas mal de contenu intéressant https://youtube.com/@PhotoGraal
 - geogebra https://www.geogebra.org/calculator/hahmryyn
+- logiciel (payant) pour creer des optiques https://www.zemax.com/
+- bouquin theorique https://www.babelio.com/livres/Houard-Optique/898680
+
 
 ## Soufflets
 
 - Tuto détaillé général https://www.galerie-photo.com/construire-soufflet-chambre-photo.html
 - Tuto plus précis http://www.disactis.com/soufflet/soufflet.php
+- Tuto de monsieur Smets https://docplayer.fr/12405417-Fabriquez-votre-soufflet.html
 - Article de blog avec photos HD d'un vieu soufflet https://delalumieredanslatelier.blogspot.com/2019/06/appareil-photo-soufflet-marque-nagel-n.html
 
 
@@ -60,6 +64,11 @@
 
 - How to Make a Front Surface Mirror (Quick & Easy Techniques) https://medium.com/geekculture/how-to-make-a-front-surface-mirror-quick-easy-techniques-c1ba3ecf6347
 - FSM (Fournisseur) https://firstsurfacemirror.com/
+
+## prismes
+
+- tuto prisme eau 
+https://www.instructables.com/Optical-Water-Prism/
 
 ## Lanternes magiques
 
