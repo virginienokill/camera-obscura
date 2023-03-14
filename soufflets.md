@@ -29,7 +29,7 @@ Pour coller le soufflet à son support, trois solutions :
 
 Sur le dessin ci dessous la longueur représentée par la flèche désigne ce qu'on appelle la taille du cadre. N.b. selon la manière de coller, ce que l'on désigne par taille du cadre peut faire référence à l'interieur du soufflet (rectangle a travers le quel on regarde) ou faire référence à l'exterieur du soufflet (encombrement du soufflet quand il est plié)
 
-![schema collage soufflet](collage-soufflet.svg)
+![schema collage soufflet](plans/collage-soufflet.svg)
 
 ## Dessin
 
@@ -41,4 +41,4 @@ Pour la forme globale du soufflet on construit pour chaque côté deux cercles e
 
 pour la partie ou on collera se referer à ce schema en fonction de ce que l'on a choisi comme manière de coller le soufflet au cadre.
 
-![schema collage soufflet](collage-soufflet-patrons.svg)
+![schema collage soufflet](plans/collage-soufflet-patrons.png)
