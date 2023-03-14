@@ -41,4 +41,6 @@ Pour la forme globale du soufflet on construit pour chaque côté deux cercles e
 
 pour la partie ou on collera se referer à ce schema en fonction de ce que l'on a choisi comme manière de coller le soufflet au cadre.
 
+(En vert les pls exterieurs en cyan les plis interieurs)
+
 ![schema collage soufflet](plans/collage-soufflet-patrons.png)
