@@ -6,6 +6,9 @@
 - logiciel (payant) pour creer des optiques https://www.zemax.com/
 - bouquin theorique https://www.babelio.com/livres/Houard-Optique/898680
 
+## Gramophone
+
+- Vidéo à propos du HMV 102 https://www.youtube.com/watch?v=AYn7aZZBMRA
 
 ## Soufflets
 
