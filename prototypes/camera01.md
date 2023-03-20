@@ -3,7 +3,7 @@
 ## Description générale
 En regardant à l'intérieur de cette camera obscura, on découvre une image à l'endroit d'environ 30 cm x 30 cm de ce qui est derrière nous.
 ## Allure
-Une boite noire de forme complexe est fixée sur un pied de projecteur. À hauteur d'yeux on trouve un viseur en forme de lunette de protection. Au dessus, une vitre protège les miroirs et l'objectif.
+Une boite noire de forme complexe est fixée sur un pied de projecteur. À hauteur d'yeux on trouve un viseur en forme de lunette de protection.
 ## Matériaux
 ![les_yeux_dans_le_dos_1](/photos/les_yeux_dans_le_dos_1_ultralight.JPG)
 ### Chassis
@@ -29,7 +29,7 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 ## Améliorations envisagées
 - déport de point pour faciliter le reglage de la position de l'objectif sur le rail.
 - peinture du chassis
-- vitre de protection et pare-soleil
+- vitre de protection et pare-soleil pour protèger les miroirs et l'objectif.
 ## Moment envisagé pour la construction et/ou les améliorations
 printemps 2023
 ## Détails de construction et description technique
