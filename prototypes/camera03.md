@@ -8,6 +8,7 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 - Tube d'acier soudé (20 mm x 20 mm).
 ### parrois
 - Contreplaqué 5 mm
+- 
 ![chambre_grand_format_1](/photos/chambre_grand_format_1_ultralight.jpg)
 ### écran
 - Toile de retroprojection (translucide/dépoli) tendue sur cadre bois
