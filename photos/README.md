@@ -1,1 +1,1 @@
-Dossier rassemblent toutes les photos liées à la création
+Dossier rassemblant toutes les photos liées à la création
