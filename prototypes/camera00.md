@@ -23,6 +23,8 @@ Une boite noire de forme parallélépipédique. L'image est projeté sur un dép
 - image petite et inversée
 ## Améliorations envisagées
 - placement d'un prisme de dove devant l'objectif pour retourner l'image
+
+![mini_chambre_3](/photos/mini_chambre_3_ultralight.jpg)
 ## Moment envisagé pour la construction et/ou les améliorations
 printemps 2023
 ## Détails de construction et description technique
