@@ -8,6 +8,7 @@ D'ici, on peut accéder aux fiches des différents protos de camera obscura. On 
 Les Protos
 ----------
 
+- [Camera obscura 00 - Mini camera obscura](camera00.md)
 - [Camera obscura 01 - Les yeux dans le dos](camera01.md)
 - [Camera obscura 02 - Chambre à antotype](camera02.md)
 - [Camera obscura 03 - Chambre grand format](camera03.md)
