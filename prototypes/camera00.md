@@ -1,4 +1,5 @@
 #  Mini Camera obscura
+![mini_chambre_2](/photos/mini_chambre_2_ultralight.jpg)
 ## Description générale
 En regardant à l'intérieur de cette camera obscura, on découvre une image à l'envers d'environ 4 cm x 4 cm de ce qui est devant nous.
 ## Allure
@@ -6,6 +7,8 @@ Une boite noire de forme parallélépipédique. L'image est projeté sur un dép
 ## Matériaux
 ### parrois
 - Carton-bois
+
+![mini_chambre_1](/photos/mini_chambre_1_ultralight.jpg)
 ### écran
 - Toile de retroprojection (translucide/dépoli) tendue sur cadre acier
 ### objectif
