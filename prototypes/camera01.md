@@ -14,7 +14,8 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 - Toile de retroprojection (translucide/dépoli) tendue sur cadre acier
 ### objectif
 - Process lens Zeiss S-TESSAR 5,6/300
-### accessoires
+![zeiss_tessar_5,6_300](/photos/zeiss_tessar_5,6_300.jpg
+### accessoires)
 - L'objectif fixé sur un clamp coulisse sur 2 rails
 - Un soufflet en tissus fixé entre la planchette et le chassis maintient l'obscurité.
 ## Évaluation des avantages et des inconvénients
