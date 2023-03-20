@@ -1,6 +1,6 @@
 #  Les Yeux Dans Le Dos
-![les_yeux_dans_le_dos_1](/photos/les_yeux_dans_le_dos_1_light.JPG)
-/photos/les_yeux_dans_le_dos_1_light.JPG
+![les_yeux_dans_le_dos_1](/photos/les_yeux_dans_le_dos_1_ultralight.JPG)
+
 ## Description générale
 En regardant à l'intérieur de cette camera obscura, on découvre une image à l'endroit d'environ 30 cm x 30 cm de ce qui est derrière nous.
 ## Allure
