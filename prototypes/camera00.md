@@ -11,8 +11,7 @@ Une boite noire de forme parallélépipédique. L'image est projeté sur un dép
 ### objectif
 - objectif 24x36 monture M42 (Helios 44-2 / 2/58mm) 
 ### accessoires
-- L'objectif fixé sur un clamp coulisse sur 2 rails
-- Un soufflet en tissus fixé entre la planchette et le chassis maintient l'obscurité.
+- L'objectif et le dépoli sont fixés sur des planchettes maintenues dans des rigoles.
 ## Évaluation des avantages et des inconvénients
 ### +
 - très leger
