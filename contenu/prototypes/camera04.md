@@ -6,6 +6,8 @@ Un vehicule type Sprinter Mercedes est transformé en caméra obscura en adaptan
 ## Allure
 Un utilitaire avec un soufflet qui dépasse à l'arrière.
 
+![proto_04](../photos/proto_04_ultralight.jpeg)
+
 ## Matériaux
 
 ### Chassis
