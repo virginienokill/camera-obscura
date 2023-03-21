@@ -25,9 +25,9 @@ Une remorque avec un soufflet qui dépasse à l'arrière.
 ### Avantages
 - image dans l'axe
 - ultra grand format
+- très confortable
 
 ### Inconvénients
-- à l'envers
 
 ## Améliorations envisagées
 
