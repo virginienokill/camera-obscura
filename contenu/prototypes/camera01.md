@@ -1,6 +1,8 @@
 #  Les Yeux Dans Le Dos
 ![les_yeux_dans_le_dos_4](../photos/les_yeux_dans_le_dos_4_ultralight.JPG)
 
+Lien vers une vidéo de test des Yeux dans le dos : https://vimeo.com/cienokill/cameraobscura-proto01
+
 ## Description générale
 En regardant à l'intérieur de cette camera obscura, on découvre une image à l'endroit d'environ 30 cm x 30 cm de ce qui est derrière nous.
 
