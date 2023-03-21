@@ -4,7 +4,7 @@
 ## Description générale
 En regardant à l'intérieur de cette camera obscura, on découvre une image à l'envers d'environ 4 cm x 4 cm de ce qui est devant nous.
 
-![proto_0](../photos/proto_00_ultralight.jpeg)
+![proto_0](../photos/proto_00V2_ultralight.jpg)
 ## Allure
 Une boite noire de forme parallélépipédique. L'image est projeté sur un dépoli à l'arrière du tube.
 
