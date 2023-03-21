@@ -5,6 +5,9 @@ D'ici, on peut accéder aux fiches des différents protos de camera obscura. On 
 - Les cameras obscuras individuelles, pour 1 regardeur à la fois (00, 01, 02, 03). Concues au départ pour tester les principes optiques du projet final (05) qui accueillera le spectacle, elle peuvent être disposées dans l'espace public en libre accès.
 - Les cameras obscuras collectives pour un groupe de regardeurs dont le nombre peut varier de six (04) à vingt (05).
 
+![dessin de trois prototypes](../dessins/protos.png)
+*De gauche à droite, les cameras 01, 02 et 03*
+
 Les Protos
 ----------
 
