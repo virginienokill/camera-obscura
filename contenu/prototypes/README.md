@@ -19,17 +19,3 @@ Le Projet final
 
 - [Camera obscura 05 - Chambre remorque](camera05.md)
 
-
-Rédaction des fiches
----------------------
-
-Il y a un fichier texte par robot qui décrit les caractéristiques suivantes :
-
-- Nom 
-- Description générale
-- Allure
-- Matériaux 
-- Hypothèses de construction, description technique
-- Évaluation des avantages/inconvénients des choix techniques
-- Améliorations envisagées
-- Moment envisagé pour la construction et/ou les améliorations
