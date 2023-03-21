@@ -1,2 +1,9 @@
-- Acheter écran plusieurs modèles Showtex https://www.showtex.com/fr/produits/ecrans-de-projection?page=1 ou Teviloj https://www.azur-scenic.com/produit/retro-translucide-depoli/
-- Acheter un objectif process lens très longue focale https://www.camleyphotographic.com/shop/nikkor-apo-nikkor-f9-610mm-process-lens-90cm-image-circle-graded-exc-10029/ 
+- Rendez-vous Arnaud pour conceils construction remorque
+
+- compléter documentation
+
+- mail Vincent avec README protos
+
+- relance courrier avec dossier
+
+- commande conex cornière et grenouillères
