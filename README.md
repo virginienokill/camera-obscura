@@ -5,11 +5,11 @@
 Ce site documente l'avancement du projet. 
 
 - [Dossier artistique](contenu/dossier/dossier-camera-obscura-2024-web.pdf)
-- [liens](contenu/liens.md)
-- [questionnements techniques](contenu/questions-tech.md)
 - [prototypes](contenu/prototypes)
-- [abaque](contenu/abaque.md)
-- [fournisseurs](contenu/fournisseurs.md)
 - [residences](contenu/residences.md)
+- [questionnements techniques](contenu/questions-tech.md)
+- [liens](contenu/liens.md)
+- [fournisseurs](contenu/fournisseurs.md)
 - [soufflets](contenu/soufflets.md)
+- [abaque](contenu/abaque.md)
 - [todo](contenu/todo.md)
