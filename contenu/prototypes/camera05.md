@@ -6,6 +6,7 @@ Une remorque est transformé en cinéma itinérant en adaptant l'arrière du vé
 ## Allure
 Une remorque avec un soufflet qui dépasse à l'arrière.
 
+![proto_05](../photos/proto_05_ultralight.jpeg)
 ## Matériaux
 
 ### Chassis
