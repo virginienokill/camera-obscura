@@ -11,7 +11,7 @@ Un utilitaire avec un soufflet qui dépasse à l'arrière.
 ### objectif
 - Process lens Wray Lustrar 16/1075mm Apo
 
-![wray_lustrar_16_1075mm_1](/photos/wray_lustrar_16_1075mm_1_ultralight.jpg)
+![wray_lustrar_16_1075mm_1](../photos/wray_lustrar_16_1075mm_1_ultralight.jpg)
 ### accessoires
 - Pour retourner l'image, il est envisagé d'utiliser un prisme de toit d'Amici, fabriqué avec 2 miroirs à 90°.
 ## Évaluation des avantages et des inconvénients

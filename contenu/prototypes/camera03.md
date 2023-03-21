@@ -9,13 +9,13 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 ### parrois
 - Contreplaqué 5 mm
 
-![chambre_grand_format_1](/photos/chambre_grand_format_1_ultralight.jpg)
+![chambre_grand_format_1](../photos/chambre_grand_format_1_ultralight.jpg)
 ### écran
 - Toile de retroprojection (translucide/dépoli) tendue sur cadre bois
 ### objectif
 - Process lens NIKON APO NIKKOR 9/610mm
 
-![apo_nikkor_9_610mm_2](/photos/apo_nikkor_9_610mm_2_ultralight.jpg)
+![apo_nikkor_9_610mm_2](../photos/apo_nikkor_9_610mm_2_ultralight.jpg)
 ### accessoires
 - Pour retourner l'image, il est envisagé d'utiliser un prisme de toit d'Amici, fabriqué avec 2 miroirs à 90°.
 ## Évaluation des avantages et des inconvénients

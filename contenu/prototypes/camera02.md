@@ -1,5 +1,5 @@
 #  Chambre à Antotype
-![chambre_anthotype_1](/photos/chambre_anthotype_1_ultralight.JPG)
+![chambre_anthotype_1](../photos/chambre_anthotype_1_ultralight.JPG)
 ## Description générale
 En regardant dans le viseur situé au dessus cette camera obscura, on découvre une image à l'endroit d'environ 50 cm x 50 cm de ce qui est devant nous. L'écran est amovible et peut être remplacé par une plaque sur laquelle on aura disposé un papier photo-sensible type antotype.
 ## Allure
