@@ -4,6 +4,7 @@
 ## Description générale
 En regardant à l'intérieur de cette camera obscura, on découvre une image à l'endroit d'environ 30 cm x 30 cm de ce qui est derrière nous.
 
+![proto_01](../photos/proto_01_ultralight.jpeg)
 ## Allure
 Une boite noire de forme complexe est fixée sur un pied de projecteur. À hauteur d'yeux on trouve un viseur en forme de lunette de protection.
 
