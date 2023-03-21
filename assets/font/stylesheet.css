@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Linux Libertine Capitals';
+    src: url('LinLibertineCapitalsB.woff2') format('woff2'),
+        url('LinLibertineCapitalsB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Initials';
+    src: url('LinLibertineI.woff2') format('woff2'),
+        url('LinLibertineI.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Capitals';
+    src: url('LinLibertineCapitalsZI.woff2') format('woff2'),
+        url('LinLibertineCapitalsZI.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Display Capitals';
+    src: url('LinLibertineDisplayCapitals.woff2') format('woff2'),
+        url('LinLibertineDisplayCapitals.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Capitals';
+    src: url('LinLibertineCapitalsI.woff2') format('woff2'),
+        url('LinLibertineCapitalsI.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Display';
+    src: url('LinLibertineDisplay.woff2') format('woff2'),
+        url('LinLibertineDisplay.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Slanted';
+    src: url('LinLibertineSlantedZ.woff2') format('woff2'),
+        url('LinLibertineSlantedZ.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Slanted';
+    src: url('LinLibertineSlanted.woff2') format('woff2'),
+        url('LinLibertineSlanted.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Capitals';
+    src: url('LinLibertineCapitals.woff2') format('woff2'),
+        url('LinLibertineCapitals.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    src: url('LinLibertineB.woff2') format('woff2'),
+        url('LinLibertineB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    src: url('LinLibertineBI.woff2') format('woff2'),
+        url('LinLibertineBI.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    src: url('LinLibertineI.woff2') format('woff2'),
+        url('LinLibertineI.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    src: url('LinLibertineZ.woff2') format('woff2'),
+        url('LinLibertineZ.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    src: url('LinLibertineZI.woff2') format('woff2'),
+        url('LinLibertineZI.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine Slanted';
+    src: url('LinLibertineSlantedB.woff2') format('woff2'),
+        url('LinLibertineSlantedB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    src: url('LinLibertine.woff2') format('woff2'),
+        url('LinLibertine.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
