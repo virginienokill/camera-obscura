@@ -4,6 +4,7 @@
 ## Description générale
 En regardant dans le viseur situé au dessus cette camera obscura, on découvre une image à l'endroit d'environ 50 cm x 50 cm de ce qui est devant nous. L'écran est amovible et peut être remplacé par une plaque sur laquelle on aura disposé un papier photo-sensible type antotype.
 
+![proto_02](../photos/proto_02_ultralight.jpeg)
 ## Allure
 Une boite noire de forme complexe est fixée sur un pied de projecteur. La forme evoque les chambres moyen-format type rolleiflex. Sur le dessus, on trouve un viseur en forme de lunette de protection. À l'avant, une vitre protège le miroirs et l'objectif.
 
