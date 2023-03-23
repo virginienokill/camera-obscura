@@ -3,7 +3,7 @@
 - Écriture fragmentée.
 - pouvoir de l'imaginagination. pouvoir de la suggestion (température ambiante)
 - beaucoup de tableau. Des fragments, matières pour improviser en fonction du lieu.
-- Ecriture à la Dannhil Arms : Une évocation, un texte, une image et on passe à autre chose
+- Ecriture à la Daniil Harms : Une évocation, un texte, une image et on passe à autre chose
 - Avec ou sans texte. On peut le jouer à l'étranger ? Du doublage ?
 - Il fait ultra froid dans le film. De la neige
 - Alterner animation et prise de vues réelles
