@@ -2,11 +2,12 @@
 ![mini_chambre_2](../photos/mini_chambre_2_ultralight.jpg)
 
 ## Description générale
-En regardant à l'intérieur de cette camera obscura, on découvre une image à l'envers d'environ 4 cm x 4 cm de ce qui est devant nous.
+En regardant à l'intérieur de cette camera obscura, on découvre une image à l'endroit d'environ 4 cm x 4 cm de ce qui est devant nous.
 
 ![proto_0](../photos/proto_00V2_ultralight.jpg)
+![mini_chambre_3](../photos/mini_chambre_3_ultralight.jpg)
 ## Allure
-Une boite noire de forme parallélépipédique. L'image est projeté sur un dépoli à l'arrière du tube.
+Une boite noire de forme parallélépipédique. L'image est projeté sur un dépoli à l'arrière du tube. Un prisme de Dove est placé devant l'objectif.
 
 ## Matériaux
 
@@ -35,7 +36,7 @@ Une boite noire de forme parallélépipédique. L'image est projeté sur un dép
 ## Améliorations envisagées
 - placement d'un prisme de dove devant l'objectif pour retourner l'image
 
-![mini_chambre_3](../photos/mini_chambre_3_ultralight.jpg)
+
 
 ## Moment envisagé pour la construction et/ou les améliorations
 printemps 2023
