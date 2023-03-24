@@ -12,5 +12,5 @@
 
 - rendez-vous Arnaud pour conceils construction remorque
 - commande Conex grenouillères, valise Hermet pour optiques, scratch, plaque alvéolaire, poignées
-- - achat simili cuir soufflet
+- achat simili cuir soufflet
 - peinture acier protos
