@@ -57,6 +57,12 @@ body {
 
 }
 
+@media screen and (max-width: 600px) {
+  #main{
+    padding: 10px 10px;
+  }
+}
+
 header,
 #main
 {
@@ -149,3 +155,4 @@ th {
 td {
   padding: 2px;
 }
+
