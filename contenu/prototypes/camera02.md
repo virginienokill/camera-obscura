@@ -48,3 +48,5 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. La forme
 printemps 2023
 
 ## Détails de construction et description technique
+
+![cotes proto02](../plans/dim_chambre_antotype_ultralight.jpeg)
