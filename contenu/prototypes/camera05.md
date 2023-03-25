@@ -42,4 +42,7 @@ automne 2023
 
 ## Détails de construction et description technique
 ![plan chassis remorque](../plans/doc_bw_tiny_house_ch600.pdf)
+
 ![plan chassis remorque](../plans/doc_bw_tiny_house_ch600_ultralight.jpg)
+
+![plan cotes remorque](../plans/dim_chambre_remorque_ultralight.jpeg)
