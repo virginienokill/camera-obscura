@@ -61,7 +61,7 @@ Sinon le diamètre est la longueur du **petit** côté du **petit** cadre.
 
 Tracer un cercle de centre D.
 Si le trait du zigzag qui part de D va vers la gauche, le diamètre du cercle est `longueur du **petit** côté du **grand** cadre + largeur des plis`.
-Sinon le diamètre est la longueur du **petit** côté du **petit** cadre.
+Sinon le diamètre est la longueur du **petit** côté du **grand** cadre.
 
 La médiane du pan de gauche est la tangeante exterieure à ces de cercle qui passe à gauche des cercles. On la note droite d.
 
