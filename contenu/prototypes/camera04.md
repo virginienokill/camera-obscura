@@ -39,4 +39,4 @@ Un utilitaire avec un soufflet qui dépasse à l'arrière.
 printemps 2023
 
 ## Détails de construction et description technique
-
+![cotes proto02](../plans/dim_panneau_sprinter_ultralight.jpeg)
