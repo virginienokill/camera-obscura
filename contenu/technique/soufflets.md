@@ -79,7 +79,7 @@ Pour la médianne du pan de droite reproduire ces étapes symétriquement, mais 
 
 #### Tracer les languette aux extremités du soufflet.
 
-pour la partie ou on collera se referer à ce [schema](plans/collage-soufflet-patrons.png) en fonction de ce que l'on a choisi comme manière de coller le soufflet au cadre. (En vert les pls exterieurs en cyan les plis interieurs)
+pour la partie ou on collera se referer à ce [schema](/contenu/plans/collage-soufflet-patrons.png) en fonction de ce que l'on a choisi comme manière de coller le soufflet au cadre. (En vert les pls exterieurs en cyan les plis interieurs)
 
 #### Dupliquer le tracé 
 
