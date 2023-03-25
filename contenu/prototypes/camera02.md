@@ -50,3 +50,10 @@ printemps 2023
 ## Détails de construction et description technique
 
 ![cotes proto02](../plans/dim_chambre_antotype_ultralight.jpeg)
+
+Soufflet : 
+
+- Grand cadre : 528mm x 488mm (collage interieur)
+- Petit cadre : 220mm x 220mm (collage contre)
+- Largeur plis : 50mm
+- nombre de plis : 10

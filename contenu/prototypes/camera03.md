@@ -49,3 +49,18 @@ printemps 2023
 ## Détails de construction et description technique
 
 ![cotes proto02](../plans/dim_chambre_grand_format_ultralight.jpeg)
+
+
+Grand Soufflet :
+
+- Grand cadre : 1000mm x 733mm (collage exterieur)
+- Petit cadre : 740mm x 540mm (collage exterieur)
+- Largeur plis : 100mm
+- nombre de plis : 20
+
+Petit Soufflet : 
+
+- Grand cadre : 740mm x 540mm (collage exterieur)
+- Petit cadre : 456mm x 373mm (collage exterieur)
+- Largeur plis : 100mm
+- nombre de plis : 20
