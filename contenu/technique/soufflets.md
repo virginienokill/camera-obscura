@@ -11,6 +11,15 @@ Bien que le choix du soufflet vienne apporter une solution très satisfaisante a
 - Le choix des materiaux est délicat (robustesse, souplesse, étanchéité, couleur)
 - La construction d'un soufflet est chronophage.
 
+
+![patron d'un soufflet](/contenu/plans/soufflet-cam03-A.png)
+![maquette de soufflet](/contenu/photos/maquette_soufflet.jpg)
+![animation maquette soufflet](/contenu/img/animation-maquette-soufflet-a.gif)
+![animation maquette soufflet](/contenu/img/animation-maquette-soufflet-b.gif)
+
+
+
+
 ## Dessiner un soufflet
 
 On s'interesse ici à la construction de soufflets "coniques" et "rectangulaires".
@@ -56,12 +65,12 @@ On commence par tracer deux traits verticaux espacé de la largeur d'un pli puis
 Soit C et D les deux extrémités du zigzag.
 
 Tracer un cercle de centre C.
-Si le trait du zigzag qui part de C va vers la gauche, le diamètre du cercle est `longueur du **petit** côté du **petit** cadre + largeur des plis`.
-Sinon le diamètre est la longueur du **petit** côté du **petit** cadre.
+Si le trait du zigzag qui part de C va vers la gauche, le diamètre du cercle est : *1/2 × longueur du **petit** côté du **petit** cadre + largeur des plis*.
+Sinon le diamètre est *1/2 × longueur du **petit** côté du **petit** cadre*.
 
 Tracer un cercle de centre D.
-Si le trait du zigzag qui part de D va vers la gauche, le diamètre du cercle est `longueur du **petit** côté du **grand** cadre + largeur des plis`.
-Sinon le diamètre est la longueur du **petit** côté du **petit** cadre.
+Si le trait du zigzag qui part de D va vers la gauche, le diamètre du cercle est *1/2 × longueur du **petit** côté du **grand** cadre + largeur des plis*.
+Sinon le diamètre est *1/2 × longueur du **petit** côté du **petit** cadre*
 
 La médiane du pan de gauche est la tangeante exterieure à ces de cercle qui passe à gauche des cercles. On la note droite d.
 
@@ -87,3 +96,11 @@ tracer la symétrie du dessin par la médiane du côté de gauche (droite d).
 
 Puis tracer à nouveau la symétrie du dessin ainsi obtenu par la médiane du côté de droite.
 
+## Construire un soufflet
+
+Le soufflet sera réalisé avec un sandwich tissu-carton-skaï :
+- Du tissu noir à l'intérieur de la chambre pour l'obscurité.
+- Du carton type Canson 0.8mm pour la rigidité.
+- Du skaï blanc à l'exterieur pour la fraicheur.
+
+Le carton est coupé à la découpeuse laser : on creuse une goutière de 2mm entre chaque pan et on laisse un petit raccord de 2mm tous les 100mm pour conserver la forme sans gener le pliage.
