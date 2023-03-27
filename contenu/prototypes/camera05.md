@@ -42,7 +42,7 @@ Une remorque avec un soufflet qui dépasse à l'arrière.
 - rideau sur l'écran ?
 - système de ventilation mécanque
 - système de refroidissement paille/eau
-- 
+- porte PMR 90 cm
 
 ## Moment envisagé pour la construction et/ou les améliorations
 automne 2023
