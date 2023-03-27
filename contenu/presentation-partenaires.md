@@ -10,7 +10,7 @@
 
 ## En résumé
 
-Une salle de cinéma est amenée dans l'espace public, une vingtaine de spectateurs s'y installent, la salle est plongée dans le noir et le public assiste à la projection d'un court-métrage d'une vingtaine de minutes.
+Une salle de cinéma est posée dans l'espace public, une vingtaine de spectateurs s'y installent, la salle est plongée dans le noir et le public assiste à la projection d'un court-métrage d'une vingtaine de minutes.
 
 La particularité de ce film est qu'il est produit sans pellicule, ni vidéo, ni électricité, et qu'il n'utilise comme énergie que celle du soleil et des comédiens.
 
@@ -27,7 +27,7 @@ Cette démarche s'inscrit à la fois dans une idée de sobriété énergétique 
 
 ## Défis techniques
 
-Ce projet s'accompagne d'un grand nombre de défis techniques dans des domaines variés (optique, isolation, acoustique, mécanique, etc.)
+Ce projet s'accompagne d'un grand nombre de défis techniques dans des domaines variés (optique, isolation thérmique, acoustique, mécanique, etc.)
 
 Pour relever ces défis, nous cherchons activement des partenaires : Des interlocuteurs pour la conception, mais aussi des lieux et des moyens de fabrication, et des circuits d'achat ou de récupération de matériel.
 
