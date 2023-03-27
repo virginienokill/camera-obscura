@@ -43,6 +43,7 @@ Une remorque avec un soufflet qui dépasse à l'arrière.
 - système de ventilation mécanque
 - système de refroidissement paille/eau
 - porte PMR 90 cm
+- retourner la flèche
 
 ## Moment envisagé pour la construction et/ou les améliorations
 automne 2023
