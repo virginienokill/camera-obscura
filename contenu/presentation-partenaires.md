@@ -6,6 +6,7 @@
 <img alt="illustration camera obscura" src="/contenu/macarons/thumb_9.png"/>
 <img alt="illustration camera obscura" src="/contenu/macarons/thumb_10.png"/>
 </div>
+
 ## En résumé
 
 Une salle de cinéma est amenée dans l'espace public, une vingtaine de spectateurs s'y installent, la salle est plongée dans le noir et le public assiste à la projection d'un court-métrage d'une vingtaine de minutes.
