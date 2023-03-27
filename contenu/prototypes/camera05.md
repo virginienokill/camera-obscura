@@ -49,6 +49,10 @@ Une remorque avec un soufflet qui dépasse à l'arrière.
 automne 2023
 
 ## Détails de construction et description technique
+
+dimension hors-tout : 7473 x 2450 x 3048
+
+
 [plan chassis remorque](../plans/doc_bw_tiny_house_ch600.pdf)
 
 ![plan chassis remorque](../plans/doc_bw_tiny_house_ch600_ultralight.jpg)
