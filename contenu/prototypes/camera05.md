@@ -49,8 +49,30 @@ Une remorque avec un soufflet qui dépasse à l'arrière.
 automne 2023
 
 ## Détails de construction et description technique
+
+dimension hors-tout caisse + chassis : 7473 x 2450 x 3048
+
+dimension hors-tout caisse : 6000 x 2450 x 24000
+
+dimension utile intérieur : 5800 x 2250 x 2300
+
+épaisseur isolation plafond ou mur : 100
+
+épaisseur isolation sol : 120
+
+entraxe siège mini : 500
+
+largeur traversée mini : 350
+
+assise mini : 500
+
+hauteur dossier : 700
+
+largeur accoudoir : 60
+
+
 [plan chassis remorque](../plans/doc_bw_tiny_house_ch600.pdf)
 
 ![plan chassis remorque](../plans/doc_bw_tiny_house_ch600_ultralight.jpg)
 
-![plan cotes remorque](../plans/dim_chambre_remorque_ultralight.jpeg)
+![plan cotes remorque](../plans/dim_chambre_remorque_v2.jpeg)
