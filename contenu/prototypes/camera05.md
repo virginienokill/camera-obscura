@@ -56,7 +56,7 @@ dimension hors-tout caisse : 6000 x 2450 x 24000
 
 dimension utile intérieur : 5800 x 2250 x 2300
 
-épaisseur isolation plafond + mur : 100
+épaisseur isolation plafond ou mur : 100
 
 épaisseur isolation sol : 120
 
