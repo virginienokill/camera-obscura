@@ -6,9 +6,9 @@
 <img alt="illustration camera obscura" src="/contenu/macarons/thumb_9.png"/>
 <img alt="illustration camera obscura" src="/contenu/macarons/thumb_10.png"/>
 </div>
-## En résumé.
+## En résumé
 
-Une salle de cinéma est installée dans l'espace public, une vingtaine de spectateurs s'y installent, la salle est plongée dans le noir et le public assiste à la projection d'un court-métrage d'une vingtaine de minutes.
+Une salle de cinéma est amenée dans l'espace public, une vingtaine de spectateurs s'y installent, la salle est plongée dans le noir et le public assiste à la projection d'un court-métrage d'une vingtaine de minutes.
 
 La particularité de ce film est qu'il est produit sans pellicule, ni vidéo, ni électricité, et qu'il n'utilise comme énergie que celle du soleil et des comédiens. 
 <div style="display:flex;flex-direction:row;">
