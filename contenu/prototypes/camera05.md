@@ -66,7 +66,7 @@ largeur traversée mini : 350
 
 assise mini : 500
 
-hauteur dossier : 70
+hauteur dossier : 700
 
 largeur accoudoir : 60
 
