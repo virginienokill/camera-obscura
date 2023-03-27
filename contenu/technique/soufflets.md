@@ -70,7 +70,7 @@ Sinon le diamètre est *1/2 × longueur du **petit** côté du **petit** cadre*.
 
 Tracer un cercle de centre D.
 Si le trait du zigzag qui part de D va vers la gauche, le diamètre du cercle est *1/2 × longueur du **petit** côté du **grand** cadre + largeur des plis*.
-Sinon le diamètre est *1/2 × longueur du **petit** côté du **petit** cadre*
+Sinon le diamètre est *1/2 × longueur du **petit** côté du **grand** cadre*
 
 La médiane du pan de gauche est la tangeante exterieure à ces de cercle qui passe à gauche des cercles. On la note droite d.
 
@@ -88,7 +88,7 @@ Pour la médianne du pan de droite reproduire ces étapes symétriquement, mais 
 
 #### Tracer les languette aux extremités du soufflet.
 
-pour la partie ou on collera se referer à ce [schema](plans/collage-soufflet-patrons.png) en fonction de ce que l'on a choisi comme manière de coller le soufflet au cadre. (En vert les pls exterieurs en cyan les plis interieurs)
+pour la partie ou on collera se referer à ce [schema](/contenu/plans/collage-soufflet-patrons.png) en fonction de ce que l'on a choisi comme manière de coller le soufflet au cadre. (En vert les pls exterieurs en cyan les plis interieurs)
 
 #### Dupliquer le tracé 
 
