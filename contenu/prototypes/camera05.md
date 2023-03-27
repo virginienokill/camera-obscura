@@ -36,6 +36,13 @@ Une remorque avec un soufflet qui dépasse à l'arrière.
 ### Inconvénients
 
 ## Améliorations envisagées
+- trappe entre salle et cabine (sous l'écran)
+- hublots avec fermeture (iris ?)
+- trappe entre cabine et extérieur avec sas.
+- rideau sur l'écran ?
+- système de ventilation mécanque
+- système de refroidissement paille/eau
+- 
 
 ## Moment envisagé pour la construction et/ou les améliorations
 automne 2023
