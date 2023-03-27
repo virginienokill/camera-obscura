@@ -6,7 +6,7 @@ Or, quelque soit la position de l'optique par rapport à l'écran, il faut que l
 Pour concilier étancheité du dispositif et possibilité varier la position relative des deux parties,
 la solution traditionnellement utilisée pour les chambres noires photographiques (mais aussi pour les accordéons et les autobus articulés) est celle du soufflet.
 
-Bien que le choix du soufflet vienne apporter une solution très satisfaisante au problème décrit ci-dessus, il apporte aussi son lot de problèmes :
+Bien que le choix du soufflet vienne apporter une solution très satisfaisante au problème décrit ci-dessus, il apporte aussi son lot de soucis :
 - Le patron d'un soufflet est difficile à dessiner.
 - Le choix des materiaux est délicat (robustesse, souplesse, étanchéité, couleur)
 - La construction d'un soufflet est chronophage.
