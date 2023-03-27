@@ -14,6 +14,7 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 - [Production](contenu/production.md), partenaires du projet et calendrier des résidences.
 - [Bibliographie](contenu/bibliographie.md), liens et documents utiles.
 - [Todo](contenu/todo.md), bloc-notes des trucs à faire.
+- [Présentation du projet](contenu/presentation-partenaires.md), à l’intention des partenaires techniques et scientifiques.
 
 
 ![Dessin de la remorque](contenu/macarons/camera-obscura.png)
