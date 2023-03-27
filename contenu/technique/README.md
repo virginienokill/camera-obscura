@@ -24,3 +24,4 @@ Dès qu'on a du contenu à propos d'un de ces points, on créé un fichier et on
 
 - [Fournisseurs](fournisseurs.md), liste de fournisseurs.
 - [Questions techniques](questions-tech.md), document un peu obsolète à mettre à jour et distribuer parmis les differentes pages de ce dossier.
+- [Vrac](vrac.md), idées à creuser.
