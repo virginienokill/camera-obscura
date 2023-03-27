@@ -51,10 +51,15 @@ automne 2023
 ## Détails de construction et description technique
 
 dimension hors-tout caisse + chassis : 7473 x 2450 x 3048
+
 dimension hors-tout caisse : 6000 x 2450 x 24000
+
 dimension utile intérieur : 5800 x 2250 x 2300
+
 épaisseur isolation plafond + mur : 100
+
 épaisseur isolation sol : 120
+
 
 [plan chassis remorque](../plans/doc_bw_tiny_house_ch600.pdf)
 
