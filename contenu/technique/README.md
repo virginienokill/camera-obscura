@@ -11,6 +11,7 @@ Dès qu'on a du contenu à propos d'un de ces points, on créé un fichier et on
 - [Calage des éléments optiques](calage.md) : où placer les différents éléments optiques
 - [Renversement de l'image](renversement.md) : comment retourner l'image de 180° (et autres rotations)
 - [Luminosité](luminosite.md) : comment obtenir l'image la plus lumineuse possible
+- [Trucage optique](../technique/surimpression.md) : obtenir un système de surimpression optique type cache-contre-cache.
 - [Soufflets](soufflets.md) : comment et pourquoi faire des soufflets.
 - [Abaque](abaque.md) : abaque des distance de tirage pour quelques objectifs.
 
