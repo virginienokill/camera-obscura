@@ -26,4 +26,6 @@ Process lens 	Fax Rokkor 150mm F4.5
 
 ### 1.4. Réglage de la mise au point
 
-La possibilité de régler la mise au point sur le sujet qui se trouve à l’extérieur semble pouvoir être résolu avec un système mécanique de translation de l’objectif sur son axe couplé à un ou plusieurs soufflets.
+Le reglage de la mise au point sur le sujet qui se trouve à l’extérieur dépend donc directement de la distance objectif/écran (tirage) et semble pouvoir être résolu avec un système mécanique de translation de l’objectif sur son axe couplé à un ou plusieurs soufflets.
+
+[Sur cette page](soufflet.md), une étude préparatoire à la fabrication des soufflets.
