@@ -7,7 +7,7 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*.
 Dès qu'on a du contenu à propos d'un de ces points, on créé un fichier et on met le lien du fichier dans la liste.
 
 ## Optique
-
+- [Principes optiques](optique.md),
 - [Renversement de l'image](renversement.md), Comment retourner l'image de 180° (et autres rotations).
 - [Luminosité](luminosite.md), Comment obtenir l'image la plus lumineuse possible
 - [Soufflets](soufflets.md), comment et pourquoi faire des soufflets.
