@@ -1,7 +1,7 @@
 
 ## Retournement de l’image
 
-En utilisant un objectif ou une lentille simple, sur l’image projettée le haut et le bas sont inversés. Il faut réussir à retourner l’image pour rétablir son orientation haut-bas. 
+En utilisant un objectif ou une lentille simple, sur l’image projetée le haut et le bas sont inversés. Il faut réussir à retourner l’image pour rétablir son orientation haut-bas. 
 L’idéal serait d’éviter aussi une inversion droite-gauche mais ce n’est pas prioritaire. Plusieurs pistes envisagées :
 
 ### Équiper les spectateurs de lunettes retournant l'image
