@@ -11,7 +11,7 @@ L’idéal serait d’éviter aussi une inversion droite-gauche mais ce n’est 
 - Artistiquement très intéressante, cette option sera utilisée pour certaines séquences : ombres et animation, marionnettes à l'envers, comédiens suspendus.
 
 ### Retourner l'image
-- Nous n’avons pas trouvé de de solution fiable pour régler ce problème en dehors de l’utilisation de prismes géants de dove, de poro Abbe ou en toit d'Amici ou avec des miroirs de grande taille.
+- Nous n’avons pas trouvé de de solution fiable pour régler ce problème en dehors de l’utilisation de prismes géants de Dove, de Poro-Abbe ou en toit d'Amici ou avec des miroirs de grande taille.
 
 - Nous nous demandons si une solution sans prisme ou miroir est possible ? Si nous sommes contraints d’utiliser des prismes de grande taille, comment et où se procurer de tels objets.
 
