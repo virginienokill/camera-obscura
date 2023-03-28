@@ -1,6 +1,6 @@
 ## Cahier des charges général
 
-Voici quelques indications générales sur les partis-pris et les choix techniques dans cette création.
+Voici quelques indications générales sur les parti-pris et les choix techniques dans cette création.
 
 ### Reproduire les codes du cinéma
 
@@ -12,11 +12,11 @@ Au son ça ouvre, entre autre, les questions de musique, de voix off et de bruit
 
 ### Mobilité du dispositif
 
-Le dispositiaf doit être mobile et sera construit sur un chassis de remorque. Cela impose des contraintes de taille et de poid.
+Le dispositif doit être mobile et sera construit sur un chassis de remorque. Cela impose des contraintes de taille et de poids.
 
 ### Le parti pris energetique
 
-Une des idées fondamentale du spectacle est de s’imposer la contrainte de n’utiliser aucun apport d’énergie autre que la lumière du soleil est la force humaine. Cette contrainte est au coeur même du projet et permettra d’être diffusé même dans des endroits sans accès à l’electricité : au milieu du désert, sur une plage, etc.
+Une des idées fondamentales du spectacle est de s’imposer la contrainte de n’utiliser aucun apport d’énergie autre que la lumière du soleil est la force humaine. Cette contrainte est au coeur même du projet et permettra d’être diffusé même dans des endroits sans accès à l’electricité : au milieu du désert, sur une plage, etc.
 
 En outre, l’utilisation d’énergie electrique de source photovoltaïque ou mécanique (force humaine) ne s’oppose pas directement à cette contrainte mais nous souhaitons si possible nous en passer pour ce spectacle.
 
