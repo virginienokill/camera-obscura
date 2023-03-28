@@ -16,6 +16,8 @@ Les dimensions limitées de la remorque nous imposent un leger gradinage (20 cm 
 
 - Process lens Nikon APO Nikkor 610 mm - F9
 
+- Process lens Ilex Paragon 380 mm - F9 
+
 - Process lens Apo Ronar Rodenscock 360 mm - F9
 
 - Process lens Zeiss S-tessar 300 mm f5,6
