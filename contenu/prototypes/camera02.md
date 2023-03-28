@@ -57,3 +57,5 @@ Soufflet :
 - Petit cadre : 220mm x 220mm (collage contre)
 - Largeur plis : 50mm
 - nombre de plis : 10
+
+![cotes soufflet](../plans/cotes-quart-soufflet-cam02.png)

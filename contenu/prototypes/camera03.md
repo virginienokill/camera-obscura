@@ -64,3 +64,6 @@ Petit Soufflet :
 - Petit cadre : 456mm x 373mm (collage exterieur)
 - Largeur plis : 100mm
 - nombre de plis : 20
+
+![cotes soufflet](../plans/cotes-quart-soufflet-cam03-A.png)
+![cotes soufflet](../plans/cotes-quart-soufflet-cam03-B.png)
