@@ -99,8 +99,11 @@ Puis tracer à nouveau la symétrie du dessin ainsi obtenu par la médiane du c�
 ## Construire un soufflet
 
 Le soufflet sera réalisé avec un sandwich tissu-carton-skaï :
-- Du tissu noir à l'intérieur de la chambre pour l'obscurité.
-- Du carton type Canson 0.8mm pour la rigidité.
+- Du tissu noir à l'intéri1mm pour la rigidité.
 - Du skaï blanc à l'exterieur pour la fraicheur.
 
-Le carton est coupé à la découpeuse laser : on creuse une goutière de 2mm entre chaque pan et on laisse un petit raccord de 2mm tous les 100mm pour conserver la forme sans gener le pliage.
+Le carton est coupé à la découpeuse laser : on creuse une goutière de 2.5mm entre chaque pan et on laisse un petit raccord de 2.5mm tous les 200mm pour conserver la forme sans gener le pliage.
+
+La découpeuse Laser du FabLab de Graulhet nous permet de découper des plaques en carton de 1000x700mm
+
+Les fichiers pour la découpes seront fournis au format dxf.
