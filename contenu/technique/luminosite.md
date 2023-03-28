@@ -4,7 +4,7 @@ Nous souhaitons que l’image soit la plus lumineuse possible. Solutions envisag
 
 ### Choix des périodes de jeu
 
-- Pour maximiser la luminosité de l’image la première chose à faire est de maximiser la luminosité du sujet filmé. Notre seule source de lumière étant le soleil, il sera necessaire de limiter les moments de jeu :
+Pour maximiser la luminosité de l’image la première chose à faire est de maximiser la luminosité du sujet filmé. Notre seule source de lumière étant le soleil, il sera necessaire de limiter les moments de jeu :
 
 - plage horaire (e.g. de 11h à 16h)
 
