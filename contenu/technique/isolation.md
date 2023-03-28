@@ -6,8 +6,7 @@ Camera Obscura est un spectacle de rue, diffusé en été, et nécessitant une b
 - Application d'un peinture ou pose d'un revètement antichaleur sur la remorque pour limiter le rayonnement solaire. (peinture bi-composant spécifique, matiériau collé type couverture de survie ?)
 
 ### Isolation thermique
-- utilisation d’un isolant efficace, de faible épaisseur et de faible poids
-Les contraintes de dimensions (largeur) et de jauge (24 spectateurs) nous impose une épaisseur d’isolant très réduite. Nous imaginons que de tels matériaux sont utilisés en aéronautique et programmes spatiaux. Peut-être pouvons nous récupérer des lots obsolètes ou périmés d'isolants ?
+- utilisation d’un isolant efficace, de faible épaisseur et de faible poids. Les contraintes de dimensions (largeur) et de jauge (24 spectateurs) nous impose une épaisseur d’isolant très réduite. Nous imaginons que de tels matériaux sont utilisés en aéronautique et programmes spatiaux. Peut-être pouvons nous récupérer des lots obsolètes ou périmés d'isolants ?
 
 ### Renouvellement de l’air
 - système de renouvellement de l’air à l’intérieur de la remorque
@@ -17,6 +16,6 @@ Cette implantation permettrait une convection naturelle. Mais peut-être faut-il
 
 ### Raffraichissement de l’air
 
-En s'inspirant des climatisations pour chapiteau, ou un flux d'air traverse un ballot de paille humide (RAF : rafraîchisseur d'air évaporatif) imaginer des caissons de paille régulièrement humidifiés sur le chemin du flux d'air.
+- En s'inspirant des climatisations pour chapiteau, ou un flux d'air traverse un ballot de paille humide (RAF : rafraîchisseur d'air évaporatif) imaginer des caissons de paille régulièrement humidifiés sur le chemin du flux d'air.
 Le plus simple semble être des caissons placés sous les sièges des spectateurs.
 
