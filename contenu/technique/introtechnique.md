@@ -1,6 +1,6 @@
 ## Cahier des charges général
 
-Voici quelques indications générales sur les partis pris et les choix technique qui dans cette création.
+Voici quelques indications générales sur les partis-pris et les choix techniques dans cette création.
 
 ### Reproduire les codes du cinéma
 
