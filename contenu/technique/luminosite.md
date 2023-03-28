@@ -33,4 +33,4 @@ La salle où le public est installée doit être la plus obscure possible. Cela 
 
 L'image est projetée en retroprojecion (par l'arriére de l'écran). Differentes qualités de toiles de retroprojection existent. Après plusieurs essais nous avons selectionné le Teviloj Retro Translucide.
 
-![test toiles retroproj](img/test-toiles-retroproj.jpg)
+![test toiles retroproj](../img/test-toiles-retroproj.jpg)
