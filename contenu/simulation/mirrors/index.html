@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Mirrors sim</title>
+		<style>
+			body { margin: 0; }
+		</style>
+	</head>
+	<body>
+
+		<script type="importmap">
+			{
+				"imports": {
+					"three": "https://unpkg.com/three/build/three.module.js",
+					"three/addons/": "https://unpkg.com/three/examples/jsm/"				}
+			}
+		</script>
+		<script type="module">
+			import * as THREE from 'three';
+			import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+			import { Reflector } from 'three/addons/objects/Reflector'
+			import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+			import { TextGeometry } from 'three/addons/geometries/TextGeometry.js';
+			import { GUI } from 'three/addons/libs/lil-gui.module.min.js';
+			
+			const loader = new THREE.TextureLoader();
+			const zOffset = 1
+			const objColor = 0xffffff;
+			const specColor = 0xffaacc;
+			// Scene
+			const scene = new THREE.Scene();
+			scene.background = new THREE.Color( 0xcaeeee );
+			scene.fog = new THREE.Fog( 0xdecede, 0, 100 );
+			// Light
+			const ambient = new THREE.HemisphereLight( 0xffffff, 0xbfd4d2, 0.9 );
+			scene.add( ambient );
+						
+			// Renderer
+			const renderer = new THREE.WebGLRenderer();
+			renderer.setSize( window.innerWidth, window.innerHeight );
+			document.body.appendChild( renderer.domElement );
+			
+			// Cam
+			const camera = new THREE.PerspectiveCamera( 50, window.innerWidth / window.innerHeight, 0.1, 1000 );
+			const cameraControls = new OrbitControls( camera, renderer.domElement );
+			cameraControls.listenToKeyEvents(window);
+			cameraControls.listenToKeyEvents(document);
+			function resetCam(x, y, z){
+				camera.position.set(0,0,zOffset+1);
+				camera.rotation.set(0,0,0);
+				cameraControls.update();
+			}
+			resetCam();
+
+			// Objects
+			let geometry, texture, material, name;
+
+			// Spectator
+			geometry = new THREE.BoxGeometry( 1, 1, .5 );
+			texture = new THREE.MeshStandardMaterial({color: specColor, map: loader.load('face.png')});
+			name = new THREE.MeshStandardMaterial({color: specColor, map: loader.load('spec.png')});
+			material = new THREE.MeshStandardMaterial({color: specColor});
+			const spectator = new THREE.Mesh( geometry, [material, material, material, material, material, texture]);
+			spectator.position.z=zOffset+1
+			scene.add( spectator );
+
+			// groups
+			const mirrors = {}
+			function selectMirrors(name){
+				Object.keys(mirrors).forEach(key=>{
+					mirrors[key].visible=key==name
+				})
+			}
+			// Group 1
+			mirrors.AbbePorro = (()=>{
+				const group = new THREE.Group();
+				// F
+				texture = new THREE.MeshStandardMaterial({color: objColor, map: loader.load('f.png')});
+				name = new THREE.MeshStandardMaterial({color: objColor, map: loader.load('obj.png')});
+				material = new THREE.MeshStandardMaterial({color: objColor});
+				const f = new THREE.Mesh( geometry, [material, material, material, material, material, texture]);
+				f.position.set(-3,-1,zOffset-1)
+				f.rotation.set(0,-Math.PI/2,0)
+				group.add(f);
+
+				// Mirrors
+				const mirror1 = createMirror()
+				mirror1.rotation.set(2*Math.PI * 1/4, 2*Math.PI * -1/8, 0)
+				mirror1.position.set(1, 0, zOffset-1);
+				group.add(mirror1 );
+
+				const mirror2 = createMirror()
+				mirror2.rotation.set(0, 2*Math.PI * 1/8, 0);
+				mirror2.position.set(0, 0 ,zOffset-1);
+				group.add(mirror2 );
+
+				const mirror3 = createMirror()
+				mirror3.rotation.set(2*Math.PI * 1/4, 2*Math.PI * 5/8, 0);
+				mirror3.position.set(1, -1, zOffset-1);
+				group.add(mirror3 );
+				return group;
+			})()
+			scene.add(mirrors.AbbePorro);
+
+			// Group 2
+			mirrors.AmiciRoof = (()=>{
+				const group = new THREE.Group();
+				// F
+				texture = new THREE.MeshStandardMaterial({color: objColor, map: loader.load('f.png')});
+				name = new THREE.MeshStandardMaterial({color: objColor, map: loader.load('obj.png')});
+				material = new THREE.MeshStandardMaterial({color: objColor});
+				const f = new THREE.Mesh( geometry, [material, material, material, material, material, texture]);
+				f.position.set(-3,0,zOffset-1)
+				f.rotation.set(0,-Math.PI/2,0)
+				group.add(f);
+
+				// Mirrors
+				const verticalAxis = new THREE.Vector3(0,1,0)
+				const offset = .32
+				const mirror1 = createMirror()
+				mirror1.rotation.set(Math.PI *1/4, 0, 0)
+				mirror1.rotateOnWorldAxis(verticalAxis,-Math.PI/4)
+				mirror1.position.set(-.2, offset, zOffset-1);
+				group.add(mirror1 );
+
+				const mirror3 = createMirror()
+				mirror3.rotation.set(Math.PI *-1/4, 0, 0)
+				mirror3.rotateOnWorldAxis(verticalAxis,-Math.PI/4)
+
+				mirror3.position.set(-.2, -offset, zOffset-1);
+				group.add(mirror3 );
+				return group;
+			})()
+			scene.add(mirrors.AmiciRoof);
+
+			selectMirrors('AmiciRoof');
+			// Ground
+
+			geometry = new THREE.PlaneGeometry( 10000, 10000 );
+			material = new THREE.MeshBasicMaterial( { color: 0xfacade } );
+
+			const ground = new THREE.Mesh( geometry, material );
+			ground.position.y = -33;
+			ground.rotation.x = -Math.PI/2;
+			scene.add( ground );
+
+			// GUI
+			const gui = new GUI();
+			let guiObj = {
+				'mirrors':'AmiciRoof',
+				'FOV':50,
+				'resetPOV':function(){resetCam()},
+				'showSpectator':true,
+			}
+			gui.add(guiObj, 'mirrors', ['AmiciRoof','AbbePorro']).onChange(()=>{
+				selectMirrors(guiObj.mirrors)
+			});
+			gui.add(guiObj, 'FOV', 0, 180, 1).onChange(()=>{camera.fov = guiObj.FOV; camera.updateProjectionMatrix(); console.log(camera.fov)})
+			gui.add(guiObj, 'showSpectator').onChange(()=>{spectator.visible = guiObj.showSpectator})
+			gui.add(guiObj, 'resetPOV');
+
+			function createMirror(){
+				let geometry, material;
+				const group = new THREE.Group();
+
+				// mirror
+				geometry = new THREE.PlaneGeometry( .9, .9 );
+				const mirror = new Reflector( geometry, {
+					clipBias: 0.003,
+					textureWidth: window.innerWidth * window.devicePixelRatio,
+					textureHeight: window.innerHeight * window.devicePixelRatio,
+					color: 0x7a7a7a
+				});
+				group.add(mirror);
+
+				// frame
+				geometry = new THREE.BoxGeometry(1,1,0.1)
+				material = new THREE.MeshStandardMaterial( { color: 0xacaaae } );
+				const frame = new THREE.Mesh( geometry, material );
+				frame.position.z = -.06
+				group.add(frame);
+
+				return group
+			}
+
+			function animate() {
+				requestAnimationFrame( animate );
+				renderer.render( scene, camera );
+			}
+
+			animate();
+		</script>
+	</body>
+</html>
