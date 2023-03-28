@@ -12,7 +12,7 @@ Pour maximiser la luminosité de l’image la première chose à faire est de ma
 
 - conditions météo (ciel dégagé).
 
-Ces conditions sont contraignante, nous souhaitons les assouplir au maximum en travaillant sur les deux points suivant.
+Ces conditions sont contraignantes, nous souhaitons les assouplir au maximum en travaillant sur les deux points suivants.
 
 ### Luminosité du système optique
 
