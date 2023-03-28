@@ -7,9 +7,7 @@ Nous souhaitons que l’image soit la plus lumineuse possible. Solutions envisag
 Pour maximiser la luminosité de l’image la première chose à faire est de maximiser la luminosité du sujet filmé. Notre seule source de lumière étant le soleil, il sera necessaire de limiter les moments de jeu :
 
 - plage horaire (e.g. de 11h à 16h)
-
 - période de l’année (e.g. mai-septembre)
-
 - conditions météo (ciel dégagé).
 
 Ces conditions sont contraignantes, nous souhaitons les assouplir au maximum en travaillant sur les deux points suivants.
@@ -28,8 +26,7 @@ Ces conditions sont contraignantes, nous souhaitons les assouplir au maximum en 
 La salle où le public est installée doit être la plus obscure possible. Cela ne changera pas la luminosité réelle de l’image mais la luminosité ressentie.
  Cela implique :
 
-- Une parfaite étanchaité lumineuse de la salle.
-- 
+- Une parfaite étanchéité lumineuse de la salle.
 - Les murs de la salle faits dans des materiaux sombres, reflétants très peu la lumière, afin que la lumière de l’écran “bave” le moins possible sur les murs.
 
 ### Rendement de l'écran
