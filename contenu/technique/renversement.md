@@ -27,7 +27,7 @@ Artistiquement très intéressante, cette option sera utilisée pour certaines s
 - Si nous devons utiliser des grands mirroirs, comment limiter les défauts optiques observés lors des essais : Perte de luminosité, double image, trait central dans le prisme en toit d'Amici... (mirroir extra clair anti reflet, mirroir first face..?)
 
 
-## Les solutions à miroir
+## Les solutions à mirroirs
 
 ### Simulation
 
