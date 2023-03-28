@@ -17,7 +17,7 @@ Dès qu'on a du contenu à propos d'un de ces points, on créé un fichier et on
 
 ## Accueil public
 
-- [Isolation et climatisation](isolation.md)Faire du frais dans la remorque
+- [Isolation et climatisation](isolation.md), faire du frais dans la remorque
 - Vendre des pop-corns cuits au four solaire.
 
 ## Divers
