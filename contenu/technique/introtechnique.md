@@ -4,11 +4,11 @@ Voici quelques indications générales sur les parti-pris et les choix technique
 
 ### Reproduire les codes du cinéma
 
-À la base de la pluspart des questions évoquées ici, il y a la volonté de reproduire un maximum de codes du cinéma pour faire vivre au public l’expérience d’une projection.
+À la base de la plupart des questions évoquées ici, il y a la volonté de reproduire un maximum de codes du cinéma pour faire vivre au public l’expérience d’une projection.
 
-À l’image ça ouvre les questions de montage de l’utilisation de différents axes de prises de vue, de différentes échelles de plan, et l’enchainement de ces différentes valeurs avec des transitions (cut, fondu, etc.). Mais aussi les questions de trucages et d’effets visuels.
+À l’image ça ouvre les questions de montage, de l’utilisation de différents axes de prises de vue, de différentes échelles de plan, et l’enchainement de ces différentes valeurs avec des transitions (cut, fondu, etc.). Mais aussi les questions de trucages et d’effets visuels.
 
-Au son ça ouvre, entre autre, les questions de musique, de voix off et de bruitage.
+Au son ça ouvre, entre autre, les questions de musique, de voix off et de bruitage et de la diffusion multicanal.
 
 ### Mobilité du dispositif
 
@@ -16,9 +16,9 @@ Le dispositif doit être mobile et sera construit sur un châssis de remorque. C
 
 ### Le parti pris energetique
 
-Une des idées fondamentales du spectacle est de s’imposer la contrainte de n’utiliser aucun apport d’énergie autre que la lumière du soleil est la force humaine. Cette contrainte est au coeur même du projet et permettra d’être diffusé même dans des endroits sans accès à l’electricité : au milieu du désert, sur une plage, etc.
+Une des idées fondatrices du spectacle est de s’imposer la contrainte de n’utiliser aucun apport d’énergie autre que la lumière du soleil est la force humaine. Cette contrainte est au coeur même du projet et permettra d’être diffusé même dans des endroits sans accès à l’electricité : au milieu du désert, sur une plage, etc.
 
-En outre, l’utilisation d’énergie electrique de source photovoltaïque ou mécanique (force humaine) ne s’oppose pas directement à cette contrainte mais nous souhaitons si possible nous en passer pour ce spectacle.
+En outre, l’utilisation d’énergie electrique de source photovoltaïque ou mécanique (force humaine ou éolien) ne s’oppose pas directement à cette contrainte mais nous souhaitons si possible nous en passer pour ce spectacle.
 
 ### Low-tech et récupération
 
