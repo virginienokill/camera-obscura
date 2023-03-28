@@ -14,7 +14,7 @@ Les process Lens étaient construits à l'origine pour des dispositifs de reprod
 
 - [La luminosité](../technique/luminosite.md) : obtenir un maximum de clarté même par temps couvert
 
-- [Le problème du retournement de l’image](../technique/renversement.md) : 
+- [Retournement de l’image](../technique/renversement.md) : donner l'illusion d'une image à l'endroit
 
 - [Mise au point et taille de l'image](../technique/calage.md) : déterminés par le calage de la distance entre l’objectif et l’écran.
 
