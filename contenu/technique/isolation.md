@@ -2,7 +2,7 @@
 
 Camera Obscura est un spectacle de rue, diffusé en été, et nécessitant une bonne luminosité extérieure. La remorque va donc être placée en plein soleil et le problème du confort thermique des spectateurs est un point essentiel à régler pour la réussite de cette création. Nous cherchons donc des solutions techniques dans les domaines suivants :
 
-### traitement de surface de la remorque
+### Traitement de surface de la remorque
 - Application d'un peinture ou pose d'un revètement antichaleur sur la remorque pour limiter le rayonnement solaire. (peinture bi-composant spécifique, matiériau collé type couverture de survie ?)
 
 ### Isolation thermique
