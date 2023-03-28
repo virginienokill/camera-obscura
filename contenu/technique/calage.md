@@ -10,7 +10,11 @@
 ### 1.4. Choix des objectifs
 - Nous aimerions utiliser plusieurs objectifs avec des focales différentes, voire des renvois d’angle, et alterner leur usage avec un système de caches manuels afin de reproduire l’illusion d’un montage type cinéma où plusieurs plans différents s’enchaînent. Il faudrait donc trouver le moyen de rendre compatible l'utilisation de ces différents objectifs, en particulier le tirage et la taille des images obtenues.
 
-- 
+liste des objectifs en notre possession :
+
+Process lens Wray Lustrar 1060 mm - F16
+Process lens Nikon APO Nikkor 610 mm - F9
+Process lens Zeiss S-tessar 300 mm f5,6
 
 
 
