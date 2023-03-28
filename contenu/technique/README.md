@@ -9,6 +9,7 @@ Dès qu'on a du contenu à propos d'un de ces points, on créé un fichier et on
 ## Optique
 
 - [Renversement de l'image](renversement.md), Comment retourner l'image de 180° (et autres rotations).
+- [Luminosité](luminosite.md), Comment obtenir l'image la plus lumineuse possible
 - [Soufflets](soufflets.md), comment et pourquoi faire des soufflets.
 - [Abaque](abaque.md), abaque des distance de tirage pour quelques objectifs.
 
