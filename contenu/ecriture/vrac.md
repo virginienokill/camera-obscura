@@ -1,18 +1,17 @@
 # Vrac à idées
 
-- Écriture fragmentée.
-- pouvoir de l'imaginagination. pouvoir de la suggestion (température ambiante)
-- beaucoup de tableau. Des fragments, matières pour improviser en fonction du lieu.
-- Ecriture à la Daniil Harms : Une évocation, un texte, une image et on passe à autre chose
-- Avec ou sans texte. On peut le jouer à l'étranger ? Du doublage ?
-- Il fait ultra froid dans le film. De la neige
-- Alterner animation et prise de vues réelles
-- Travelling en voiture. Image à l'envers.
-- Image 
-- Sur quoi est posée la personne qui porte la terre ? un image de poirier à l'envers.
-- Escalader le monde à 90 °.
-- Trucage : être dans l'eau, mate painting, cache contre cache (un nouvel élément de décor dans le décor du quotidien)
-- La montagne qui aa poussé rue Jean-Jaures.
-- 100 % dessin et animation.
+- écriture fragmentée : beaucoup de tableaux, des fragments, matières pour improviser en fonction du lieu
+- pouvoir de l'imagination (le décor) : Une montagne a poussé rue Jean-Jaures...
+- pouvoir de la suggestion (température ambiante) : Il fait ultra froid dans le film, de la neige
+- écriture à la Daniil Harms : Une évocation, un texte, une image et on passe à autre chose
+- avec ou sans texte. On peut le jouer à l'étranger ? Du doublage ?
+- alterner animation et prise de vues réelles
+- trucage : des marionnettes répliques réalistes des comédiens
+- travelling en voiture. Image à l'envers.
+- sur quoi est posée la personne qui porte la terre ? un image de poirier à l'envers.
+- escalader le monde à 90 °.
+- trucage : être dans l'eau, mate painting, cache contre cache (un nouvel élément de décor dans le décor du quotidien)
+- Des passages 100 % dessin et animation.
+
 
 
