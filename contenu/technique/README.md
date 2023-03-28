@@ -13,7 +13,7 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 - [Luminosité](luminosite.md) : comment obtenir l'image la plus lumineuse possible
 - [Trucage optique](../technique/surimpression.md) : incrustation et surimpression
 - [Soufflets](soufflets.md) : comment et pourquoi faire des soufflets.
-- [Abaque](abaque.md) : abaque des distance de tirage pour quelques objectifs.
+- [Abaque](abaque.md) : abaque des distances de tirage pour quelques objectifs.
 
 ## Audio
 - [diffusion du son dans la remorque](son.md) : comment donner l'illusion du son cinéma
