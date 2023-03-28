@@ -16,6 +16,6 @@ Les process Lens étaient construits à l'origine pour des dispositifs de reprod
 
 - [Retournement de l’image](../technique/renversement.md) : donner l'illusion d'une image à l'endroit
 
-- [Mise au point et taille de l'image](../technique/calage.md) : déterminés par le calage de la distance entre l’objectif et l’écran.
+- [Mise au point et taille de l'image](../technique/calage.md) : caller la distance entre l’objectif et l’écran.
 
-- [Trucage optique](../technique/surimpression.md) : obtenu par un système de surimpression optique type cache-contre-cache.
+- [Trucage optique](../technique/surimpression.md) : obtenir un système de surimpression optique type cache-contre-cache.
