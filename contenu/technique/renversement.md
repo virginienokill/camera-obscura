@@ -8,7 +8,7 @@ L’idéal serait d’éviter aussi une inversion droite-gauche mais ce n’est 
 - Cette solution, séduisante sur le papier, comporte quelques défauts : qualité médiocre, champ limité, gestions des lunettes pendant les séances, prix...
 
 ### Retourner comédiens et décors
-- Artistiquement très intéressant, cette option sera utilisée pour certaines séquences : ombres et animation, marionnettes à l'envers, comédiens suspendus.
+- Artistiquement très intéressante, cette option sera utilisée pour certaines séquences : ombres et animation, marionnettes à l'envers, comédiens suspendus.
 
 ### Retourner l'image
 - Nous n’avons pas trouvé de de solution fiable pour régler ce problème en dehors de l’utilisation de prismes géants de dove, de poro Abbe ou en toit d'Amici ou avec des miroirs de grande taille.
