@@ -1,4 +1,4 @@
-## Schéma simplifié du dispositif
+## Principe optique
 
  ![plan d'ensemble](plans/ensemble.png)
 
@@ -6,7 +6,7 @@ A : Acteur	S : Système optique	O : Opérateur		E : Écran	R : Regardeur
 
 t : tirage	p : profondeur		h : hauteur		l : largeur	d : diamètre de l’écran
 
-## 1. Image
+## Premiers essais
 
 Les premiers essais ont été réalisés avec un process lens Zeiss tessar 5,6/300 chiné sur ebay.
 
