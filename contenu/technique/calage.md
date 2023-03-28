@@ -16,10 +16,13 @@ Process lens Wray Lustrar 1060 mm - F16
 
 Process lens Nikon APO Nikkor 610 mm - F9
 
+Process lens Apo Ronar Rodenscock 360 mm - F9
+
 Process lens Zeiss S-tessar 300 mm f5,6
 
+Process lens 	Fax Rokkor 150mm F4.5
 
-
+Sur cette page, des abaques permettent de corréler distance de mise au point et tirage
 ### 1.4. Réglage de la mise au point
 
 La possibilité de régler la mise au point sur le sujet qui se trouve à l’extérieur semble pouvoir être résolu avec un système mécanique de translation de l’objectif sur son axe couplé à un ou plusieurs soufflets.
