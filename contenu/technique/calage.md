@@ -24,7 +24,7 @@ Les dimensions limitées de la remorque nous imposent un leger gradinage (20 cm 
 
 - [Sur cette page](abaque.md), des abaques permettent de corréler distance de mise au point et tirage
 
-### 1.4. Réglage de la mise au point
+### Réglage de la mise au point
 
 - Le reglage de la mise au point sur le sujet qui se trouve à l’extérieur dépend donc directement de la distance objectif/écran (tirage) et semble pouvoir être résolu avec un système mécanique de translation de l’objectif sur son axe couplé à un ou plusieurs soufflets.
 
