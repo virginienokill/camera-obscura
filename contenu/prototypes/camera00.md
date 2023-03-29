@@ -27,7 +27,7 @@ Une boite noire de forme parallélépipédique. L'image est projeté sur un dép
 ## Évaluation des avantages et des inconvénients
 
 ### Avantages
-- très leger
+- très léger
 - parfait pour des tests
 
 ### Inconvénients
