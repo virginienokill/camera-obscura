@@ -98,7 +98,8 @@ header h1 {
 }
 header a {
  text-decoration:none;
- display:block
+ display:block;
+ color:var(--DGR);
 }
 
 
@@ -128,7 +129,6 @@ nav {
 
 a,
 a:visited {
- color:var(--DGR);
  font-weight: 600;
 }
 a:hover {
