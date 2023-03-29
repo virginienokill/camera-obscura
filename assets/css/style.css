@@ -98,7 +98,8 @@ header h1 {
 }
 header a {
  text-decoration:none;
- display:block
+ display:block;
+ color:var(--DGR);
 }
 
 
@@ -126,14 +127,13 @@ nav {
  justify-content:right;
 }
 
-a,
-a:visited {
- color:var(--DGR);
- font-weight: 600;
+a {
+  text-decoration: none;
 }
-a:hover {
- text-decoration:none
+a:hover{
+  text-decoration: underline;
 }
+
 
 img {
  display:block;

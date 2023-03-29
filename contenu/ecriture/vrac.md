@@ -5,7 +5,7 @@
 - pouvoir de la suggestion (température ambiante) : il fait ultra froid dans le film, de la neige
 - écriture à la Daniil Harms : une évocation, un texte, une image et on passe à autre chose
 - avec ou sans texte. On peut le jouer à l'étranger ? Du doublage ?
-- alterner animation et prise de vues réelles
+- alterner animation et prises de vues réelles
 - trucage : des marionnettes répliques réalistes des comédiens
 - travelling en voiture, image à l'envers
 - sur quoi est posée la personne qui porte la terre ? une image de poirier à l'envers
