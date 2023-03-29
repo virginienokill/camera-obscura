@@ -127,13 +127,13 @@ nav {
  justify-content:right;
 }
 
-a,
-a:visited {
- font-weight: 600;
+a {
+  text-decoration: none;
 }
-a:hover {
- text-decoration:none
+a:hover{
+  text-decoration: underline;
 }
+
 
 img {
  display:block;
