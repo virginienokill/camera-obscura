@@ -10,7 +10,7 @@ En regardant à l'intérieur de cette camera obscura, on découvre une image à 
 
 ![proto_01](../photos/proto_01_ultralight.jpeg)
 ## Allure
-Une boite noire de forme complexe est fixée sur un pied de projecteur. À hauteur d'yeux on trouve un viseur en forme de lunette de protection.
+Une boite noire de forme complexe est fixée sur un pied de projecteur. À hauteur d'yeux on trouve un viseur en forme de lunettes de protection.
 
 ## Matériaux
 ![les_yeux_dans_le_dos_1](../photos/les_yeux_dans_le_dos_1_ultralight.JPG)
@@ -18,11 +18,11 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 ### Chassis
 - Tube d'acier soudé (20 mm x 20 mm).
 
-### Parrois
+### Parois
 - Panneau de plastique alvéolaire
 
 ### Écran
-- Toile de retroprojection (translucide/dépoli) tendue sur cadre acier
+- Toile de rétroprojection (translucide/dépoli) tendue sur cadre acier
 
 ### Objectif
 - Process lens Zeiss S-TESSAR 5,6/300
@@ -31,7 +31,7 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 
 ### accessoires
 - L'objectif fixé sur un clamp coulisse sur 2 rails
-- Un soufflet en tissus fixé entre la planchette et le chassis maintient l'obscurité.
+- Un soufflet en tissu fixé entre la planchette et le chassis maintient l'obscurité.
 
 ## Évaluation des avantages et des inconvénients
 
