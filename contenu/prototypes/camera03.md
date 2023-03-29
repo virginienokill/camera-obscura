@@ -4,7 +4,7 @@
 En regardant dans le viseur situé à l'arrière de cette camera obscura, on observe une image à l'envers d'environ 100 cm x 73 cm (format 1,37) de ce qui est devant nous.
 
 ## Allure
-Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur fait office de viseur de champ. Elle est prolongée par un long soufflet construit en deux partie et se termine par le support de l'objectif, lui-même fixé sur un pied. La forme evoque les chambres photographiques ultra grand format. Un pied intermédiaire limite l'affaissement du soufflet.
+Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur fait office de viseur de champ. Elle est prolongée par un long soufflet construit en deux parties et se termine par le support de l'objectif, lui-même fixé sur un pied. La forme évoque les chambres photographiques ultra grand format. Un pied intermédiaire limite l'affaissement du soufflet.
 
 ![proto_03](../photos/proto_03_ultralight.jpeg)
 
@@ -13,13 +13,13 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 ### Chassis
 - Tube d'acier soudé (20 mm x 20 mm).
 
-### Parrois
+### Parois
 - Contreplaqué 5 mm
 
 ![chambre_grand_format_1](../photos/chambre_grand_format_1_ultralight.jpg)
 
 ### Écran
-- Toile de retroprojection (translucide/dépoli) tendue sur cadre bois
+- Toile de rétroprojection (translucide/dépoli) tendue sur cadre bois
 
 ### Objectif
 - Process lens NIKON APO NIKKOR 9/610mm
@@ -27,7 +27,7 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 ![apo_nikkor_9_610mm_2](../photos/apo_nikkor_9_610mm_2_ultralight.jpg)
 
 ### Accessoires
-- Pour retourner l'image, il est envisagé d'utiliser un prisme de toit d'Amici, fabriqué avec 2 miroirs à 90°.
+- Pour retourner l'image, il est envisagé d'utiliser un prisme en toit d'Amici, fabriqué avec 2 miroirs à 90°.
 
 ## Évaluation des avantages et des inconvénients
 
@@ -40,7 +40,7 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 - à l'envers
 
 ## Améliorations envisagées
-- fabrication et fixation soufflet carton/tissus/cuir
+- fabrication et fixation soufflet carton/tissu/cuir
 - peinture du chassis
 
 ## Moment envisagé pour la construction et/ou les améliorations
