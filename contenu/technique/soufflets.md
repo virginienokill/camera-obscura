@@ -99,8 +99,9 @@ Puis tracer à nouveau la symétrie du dessin ainsi obtenu par la médiane du c�
 ## Construire un soufflet
 
 Le soufflet sera réalisé avec un sandwich tissu-carton-skaï :
-- Du tissu noir à l'intéri1mm pour la rigidité.
-- Du skaï blanc à l'exterieur pour la fraicheur.
+- Du tissu noir à l'intérieur
+- Du carton 1mm pour la rigidité.
+- Du skaï blanc à l'exterieur pour la fraicheur et l'étancheïté.
 
 Le carton est coupé à la découpeuse laser : on creuse une goutière de 2.5mm entre chaque pan et on laisse un petit raccord de 2.5mm tous les 200mm pour conserver la forme sans gener le pliage.
 
