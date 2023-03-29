@@ -24,5 +24,4 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 
 ## Divers
 - [Fournisseurs](fournisseurs.md), liste de fournisseurs.
-- [Questions techniques](questions-tech.md), document un peu obsolète à mettre à jour et distribuer parmis les differentes pages de ce dossier.
 - [Vrac](vrac.md), idées à creuser.
