@@ -49,16 +49,19 @@ Interlocuteurices :
 
 ### du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons
 courses :
-aimants : à coudre 40
-skaï : en 1,4m - 14 m blanc - 2 m noir
-coton gratté light : 1,4 - 16 m
-carton : 24 feuilles de carton. ep : 1mm - dim : 1000 x 700 mm
-Bache noire pour occulter camion
-en préparation :
-Peinture métal
-fab lab jeudi 30/3
 
-programme résidence
+- aimants : à coudre 40
+- skaï : en 1,4m - 14 m blanc - 2 m noir
+- coton gratté light : 1,4 - 16 m
+- carton : 24 feuilles de carton. ep : 1mm - dim : 1000 x 700 mm
+- Bache noire pour occulter camion
+- 
+en préparation :
+- Peinture métal
+- fab lab jeudi 30/3
+
+programme résidence:
+
 - lundi 3/4 contruction 1 souflet et finition camera 2
 - mardi 4/4 fab lab grand soufflet
 - mercredi et jeudi grands soufflets et adaptation au camion
