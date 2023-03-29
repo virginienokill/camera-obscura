@@ -1,11 +1,11 @@
 #  Chambre Remorque
 
 ## Description générale
-Une remorque est transformé en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur leque est fixé l'écran de 1,80 m x 1,31 m (format 1,37) est fixé à l'intérieur de la remorque. 20 personnes assisent sur un gradinage peuvent assister simultanémant à la projection.
+Une remorque est transformée en cinéma itinérant en adaptant l'arrière du véhicule pour qu'il accueille un système soufflet/objectif. Un cadre sur lequel est fixé l'écran de 1,80 m x 1,31 m (format 1,37) est installé à l'intérieur de la remorque. 20 personnes assisent sur un gradinage peuvent assister simultanémant à la projection.
 
 
 ![Dessin de la remorque](../dessins/remorque.png)
-*Vue de la remorque, un&middot;e opérateurice sur le toit pour les effets spéciaux et les marionettes ; un&middot;e derrière l'écran pour le système optique principal et le son ; le public est réparti sur 5 rangées de sièges*
+*Vue de la remorque, un&middot;e opérateurice sur le toit pour les effets spéciaux et les marionnettes ; un&middot;e derrière l'écran pour le système optique principal et le son ; le public est réparti sur 5 rangées de sièges*
 
 
 ## Allure
@@ -18,13 +18,13 @@ Une remorque avec un soufflet qui dépasse à l'arrière.
 - Remorque BW TINY HOUSE CH 600 et charpente alu.
 
 ### Écran
-- Toile de retroprojection (translucide/dépoli) tendue sur cadre
+- Toile de rétroprojection (translucide/dépoli) tendue sur cadre
 
 ### Objectif
 - à définir
 
 ### Accessoires
-- Pour retourner l'image, il est envisagé d'utiliser un prisme de toit d'Amici, fabriqué avec 2 miroirs à 90°.
+- Pour retourner l'image, il est envisagé d'utiliser un prisme en toit d'Amici, fabriqué avec 2 miroirs à 90°.
 
 ## Évaluation des avantages et des inconvénients
 
@@ -40,7 +40,7 @@ Une remorque avec un soufflet qui dépasse à l'arrière.
 - hublots avec fermeture (iris ?)
 - trappe entre cabine et extérieur avec sas.
 - rideau sur l'écran ?
-- système de ventilation mécanque
+- système de ventilation mécanique
 - système de refroidissement paille/eau
 - porte PMR 90 cm
 - retourner la flèche
