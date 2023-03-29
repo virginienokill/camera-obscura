@@ -51,7 +51,12 @@ printemps 2023
 
 ![cotes proto02](../plans/dim_chambre_antotype_ultralight.jpeg)
 
-Soufflet : 
+### Soufflet
+
+- [Patron soufflet en dxf](/contenu/plans/soufflet-cam02.dxf)
+- [Patron soufflet en pdf pour aperçu](/contenu/plans/soufflet-cam02.pdf)
+
+cotes :
 
 - Grand cadre : 528mm x 488mm (collage interieur)
 - Petit cadre : 220mm x 220mm (collage contre)
