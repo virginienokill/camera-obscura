@@ -33,7 +33,7 @@ Ce projet s'accompagne d'un grand nombre de défis techniques dans des domaines 
 - Comment maintenir une [température supportable](technique/isolation.md) et assurer un renouvellement de l'air dans une remorque exposée au soleil sans apport exterieur d'énergie ?
 - Comment servir des popcorns aux spectateurs, sans utiliser ni gaz ni électricité pour les cuire ?
 - Comment donner l'[illusion d'un son "cinéma"](technique/son.md) en se limitant à des systèmes acoustiques ?
-- Comment construire [une salle de cinéma](prototypes/camera05.md) légère, durable, compacte et mobile adaptée à l'accueil du public ?
+- Comment construire une [salle de cinéma](prototypes/camera05.md) légère, durable, compacte et mobile adaptée à l'accueil du public ?
 
 Pour relever ces défis, nous cherchons activement des partenaires : Des interlocuteurs pour la conception, mais aussi des lieux et des moyens de fabrication, et des circuits d'achat ou de récupération de matériel.
 
