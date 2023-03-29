@@ -1,9 +1,9 @@
 
 ## Calage des éléments optiques
-Les dimensions limitées de la remorque nous imposent un leger gradinage (20 cm par rang) et une rétroprojection. C'est avec cette configuration que nous obtenons le meilleur confort de vision pour une taille de remorque raisonnable.
+Les dimensions limitées de la remorque nous imposent un léger gradinage (20 cm par rang) et une rétroprojection. C'est avec cette configuration que nous obtenons le meilleur confort de vision pour une taille de remorque raisonnable.
 
 ### Contraintes liées au spectacle
-- Nous aurions aimé une distance entre objectif et écran de au minimum 1 m pour des raisons pratiques d’implantation de l’écran dans la remorque et de positionnement du comédien/opérateur qui est à l'intérieur. 
+- Nous aurions aimé une distance entre objectif et écran d'au minimum 1 m pour des raisons pratiques d’implantation de l’écran dans la remorque et de positionnement du comédien/opérateur qui est à l'intérieur. 
 
 - Nous visons une taille d’image de 2 m de diamètre ce qui nous permet de cadrer sur un écran de 1,80 m x 1,31 m (1.37) sans trop de vignettage.
 
@@ -28,6 +28,6 @@ Les dimensions limitées de la remorque nous imposent un leger gradinage (20 cm 
 
 ### Réglage de la mise au point
 
-- Le reglage de la mise au point sur le sujet qui se trouve à l’extérieur dépend donc directement de la distance objectif/écran (tirage) et semble pouvoir être résolu avec un système mécanique de translation de l’objectif sur son axe couplé à un ou plusieurs soufflets.
+- Le réglage de la mise au point sur le sujet qui se trouve à l’extérieur dépend donc directement de la distance objectif/écran (tirage) et semble pouvoir être résolu avec un système mécanique de translation de l’objectif sur son axe couplé à un ou plusieurs soufflets.
 
 - [Sur cette page](soufflet.md), une étude préparatoire à la fabrication des soufflets.
