@@ -11,9 +11,9 @@ Voici la liste des défis techniques liés au spectacle *Camera Obscura*. Dès q
 - [Calage des éléments optiques](calage.md) : où placer les différents éléments optiques
 - [Renversement de l'image](renversement.md) : comment retourner l'image de 180° (et autres rotations)
 - [Luminosité](luminosite.md) : comment obtenir l'image la plus lumineuse possible
-- [Trucage optique](../technique/surimpression.md) : obtenir un système de surimpression optique type cache-contre-cache.
+- [Trucage optique](../technique/surimpression.md) : incrustation et surimpression
 - [Soufflets](soufflets.md) : comment et pourquoi faire des soufflets.
-- [Abaque](abaque.md) : abaque des distance de tirage pour quelques objectifs.
+- [Abaque](abaque.md) : abaque des distances de tirage pour quelques objectifs.
 
 ## Audio
 - [diffusion du son dans la remorque](son.md) : comment donner l'illusion du son cinéma

@@ -31,8 +31,7 @@ Une boite noire de forme parallélépipédique. L'image est projeté sur un dép
 - parfait pour des tests
 
 ### Inconvénients
-- image petite et inversée
-
+- image petite et tronquée
 ## Améliorations envisagées
 
 ## Moment envisagé pour la construction et/ou les améliorations
