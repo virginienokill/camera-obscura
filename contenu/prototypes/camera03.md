@@ -56,14 +56,14 @@ Grand Soufflet :
 - Grand cadre : 1000mm x 733mm (collage exterieur)
 - Petit cadre : 740mm x 540mm (collage exterieur)
 - Largeur plis : 100mm
-- nombre de plis : 20
+- nombre de plis : 16
 
 Petit Soufflet : 
 
 - Grand cadre : 740mm x 540mm (collage exterieur)
 - Petit cadre : 456mm x 373mm (collage exterieur)
 - Largeur plis : 100mm
-- nombre de plis : 20
+- nombre de plis : 16
 
 ![cotes soufflet](../plans/cotes-quart-soufflet-cam03-A.png)
 ![cotes soufflet](../plans/cotes-quart-soufflet-cam03-B.png)
