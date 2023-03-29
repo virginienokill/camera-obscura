@@ -7,16 +7,16 @@ En regardant à l'intérieur de cette camera obscura, on découvre une image à 
 ![proto_0](../photos/proto_00V2_ultralight.jpg)
 
 ## Allure
-Une boite noire de forme parallélépipédique. L'image est projeté sur un dépoli à l'arrière du tube. Un prisme de Dove est placé devant l'objectif.
+Une boite noire de forme parallélépipédique. L'image est projetée sur un dépoli à l'arrière du tube. Un prisme de Dove est placé devant l'objectif.
 
 ![mini_chambre_3](../photos/mini_chambre_3_ultralight.jpg)
 ## Matériaux
 
-### Parrois
+### Parois
 - Carton-bois
 
 ### Écran
-- Toile de retroprojection (translucide/dépoli) tendue sur cadre acier
+- Toile de rétroprojection (translucide/dépoli) tendue sur cadre acier
 
 ### Objectif
 - objectif 24x36 monture M42 (Helios 44-2 / 2/58mm) 
