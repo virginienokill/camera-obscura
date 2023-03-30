@@ -55,17 +55,19 @@ courses :
 - coton gratté light : 1,4 - 16 m
 - carton : 24 feuilles de carton. ep : 1mm - dim : 1000 x 700 mm
 - Bache noire pour occulter camion
-- 
+
 en préparation :
 - Peinture métal
 - fab lab jeudi 30/3
+- courses
 
 programme résidence:
 
 - lundi 3/4 contruction 1 souflet et finition camera 2
-- mardi 4/4 fab lab grand soufflet
+- mardi 4/4 miroir toit d'Amici et fab lab grand soufflet
 - mercredi et jeudi grands soufflets et adaptation au camion
-- contact fablab Airbus
+- contact fablab Airbus 
+- jeudi test camera 03
 
 ### du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima
 - test camion
