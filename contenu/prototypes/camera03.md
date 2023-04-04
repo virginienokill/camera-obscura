@@ -50,6 +50,12 @@ printemps 2023
 
 ![cotes proto02](../plans/dim_chambre_grand_format_ultralight.jpeg)
 
+### Soufflet
+
+- [Patron soufflet A en dxf](/contenu/plans/soufflet-cam03-A.dxf)
+- [Patron soufflet A en pdf pour aperçu](/contenu/plans/soufflet-cam03-A.pdf)
+- [Patron soufflet B en dxf](/contenu/plans/soufflet-cam03-B.dxf)
+- [Patron soufflet B en pdf pour aperçu](/contenu/plans/soufflet-cam03-B.pdf)
 
 Grand Soufflet :
 

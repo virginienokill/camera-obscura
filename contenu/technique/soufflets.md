@@ -108,3 +108,5 @@ Le carton est coupé à la découpeuse laser : on creuse une goutière de 2.5mm 
 La découpeuse Laser du FabLab de Graulhet nous permet de découper des plaques en carton de 1000x700mm
 
 Les fichiers pour la découpes seront fournis au format dxf.
+
+Le sandwich est collé à la colle à reliure, temps de séchage = 24h.
