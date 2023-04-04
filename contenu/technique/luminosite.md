@@ -18,7 +18,7 @@ Ces conditions sont contraignantes, nous souhaitons les assouplir au maximum en 
 
 - Il nous a semblé important d’utiliser des objectifs achromatiques, asphériques afin de limiter au maximum les aberrations et obtenir une bonne qualité d’image qui évoque les impressions ressenties dans une salle de cinéma. Nous avons donc recherché ce type d'objectifs, mais avec de très grands diamètres pour gagner en luminosité. Nous avons trouvé des optiques qui répondent partiellement à ces critères : les process lens. Mais, même sur les plus gros modèles, les lentilles ne dépassent jamais 100 mm de diamètre.
 
-- Nous nous posons la question de savoir si des lentilles simples, de très grand diametre (200 mm ou plus) apporteraient un plus en terme de luminosité, sans trop sacrifier la qualité de l'image. Nous serions intéressés pour récupérer des éléments optiques issus de matériel obsolète (Matériel de laboratoire ?, vieux télescope géant ?, lunette astronomique ? etc.) pour tester ce type de solutions. focale recherchée (1000 mm)
+- Nous nous posons la question de savoir si des lentilles simples, de très grand diametre (200 mm ou plus) apporteraient un plus en terme de luminosité, sans trop sacrifier la qualité de l'image. Nous serions intéressés pour récupérer des éléments optiques issus de matériel obsolète (Matériel de laboratoire ?, vieux télescope géant ?, lunette astronomique ? etc.) pour tester ce type de solutions. focale recherchée (2000 mm)
 
 ### Obscurité de la salle
 
