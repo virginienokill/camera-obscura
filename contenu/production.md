@@ -69,6 +69,9 @@ programme résidence:
 - contact fablab Airbus 
 - jeudi test camera 03
 
+### du 9/5/2023 au 12/5/2023 : Toulouse (31) - QDS
+- Rencontre airbus ?
+
 ### du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima
 - test camion
 
