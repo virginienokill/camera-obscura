@@ -22,6 +22,7 @@
 ## Animation 
 
 - [Terry Gilliam, cutout anim](https://youtu.be/KOqcHCEqO1k)
+
 ## Photo très grand format
 
 - [Article sur des photographes très grand format](https://fstoppers.com/diy/photographer-creates-gigantic-ultra-large-format-digital-camera-571295)
@@ -78,6 +79,7 @@
 ## Lanternes magiques
 
 - [Lanternes magiques](https://en.wikipedia.org/wiki/Magic_lantern)
+- [petit Doc en anglais](https://youtu.be/w1XkqtzLfKo)
 
 ## Historique
 
