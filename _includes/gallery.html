@@ -1,33 +1,31 @@
  
-  <div class="image-gallery">
-  {% for file in site.static_files %}
+<div class="image-gallery">
+{% for file in site.static_files %}
     {% if file.path contains include.folder %}
-      {% if
+        {% assign filenameparts = file.path | split: "/" %}
+        {% assign filename = filenameparts | last}
+
+        {% if
         file.extname == '.jpg' or 
         file.extname == '.jpeg' or 
         file.extname == '.JPG' or 
         file.extname == '.JPEG' or 
         file.extname == '.gif' or 
-        file.extname == '.png'
-      %}
-  
-        {% assign filenameparts = file.path | split: "/" %}
-        {% assign filename = filenameparts | last}
-  
-        <a href="{{ file.path }}" title="{{ filename }}">
-          <img src="{{ file.path }}" alt="{{ filename }}" />
-          <span><pre>{{ file.path }}</pre></span>
-        </a>
+        file.extname == '.png' %}
+
+            <a href="{{ file.path }}" title="{{ filename }}">
+            <img src="{{ file.path }}" alt="{{ filename }}" />
+            <span>{{ file.path }}</span>
+            </a>
 
         {% else %}
-        
-        <a href="{{ file.path }}" title="{{ filename }}">
+
+            <a href="{{ file.path }}" title="{{ filename }}">
             <img src="/assets/img/file.png"/>
-            <span><pre>{{ file.path }}</pre></span>
-          </a>
-  
-      {% endif %}
+            <span>{{ file.path }}</span>
+            </a>
+
+        {% endif %}
     {% endif %}
-  {% endfor %}
-  </div>
-  
+{% endfor %}
+</div>
