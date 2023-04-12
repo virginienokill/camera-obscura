@@ -45,7 +45,6 @@ Interlocuteurices :
 - Documentation des protos
 - Tests en exterieur
 
-## Résidences à venir
 
 ### du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons et au Fablab de la MJC de Graulhet
 
@@ -57,6 +56,8 @@ Interlocuteurices :
 - Construction camera 3
 - Tests en exterieur
 - Documentation video avec Mathieu
+
+## Résidences à venir
 
 
 ### du 9/5/2023 au 12/5/2023 : Toulouse (31) - QDS
