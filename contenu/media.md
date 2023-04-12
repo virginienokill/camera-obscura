@@ -14,7 +14,7 @@ Les vidéos sont hébergées sur Vimeo et rassemblée dans [un showcase nommé C
 
 Les images sont réparties dans 5 dossiers. Elles sont hébergées sur le git. Les images en bitmap (non vectorielles) sont compréssées pour alleger le site.
 
-## Photos
+## Photos
 
 le dossier [`photos/`](https://github.com/LeonLenclos/camera-obscura/tree/main/contenu/photos) contient les photos prises pendant la création.
 
