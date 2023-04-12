@@ -6,6 +6,10 @@ L’idéal serait d’éviter aussi une inversion droite-gauche mais ce n’est 
 
 ## Tour d'horizon des solutions pour régler le problème du renversement
 
+
+![prisme en toit](../photos/toit_amici_1.jpg)
+*Un prisme en toit d'Amici réalisé avec deux miroirs*
+
 Plusieurs pistes envisagées :
 
 ### Retourner les spectateurs
