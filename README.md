@@ -1,4 +1,5 @@
 # Camera Obscura
+
 ### travail en cours
 
 *Camera Obscura* est un projet de théâtre optique itinérant de la Cie Nokill dont la première est prévue pour l'été 2024. 
@@ -15,6 +16,7 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 - [Bibliographie](contenu/bibliographie.md), liens et documents utiles.
 - [Todo](contenu/todo.md), bloc-notes des trucs à faire.
 - [Présentation du projet](contenu/presentation-partenaires.md), à l’intention des partenaires techniques et scientifiques.
+- [Media](contenu/media.md), liste de tous les media liés à la documentation de la création.
 
 
 ![Dessin de la remorque](contenu/macarons/camera-obscura.png)
