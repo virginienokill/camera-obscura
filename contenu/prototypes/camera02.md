@@ -1,12 +1,35 @@
 #  Chambre à Antotype
-![chambre_anthotype_1](../photos/chambre_anthotype_1_ultralight.JPG)
+
+| prototype n°                |                   02 |
+|-----------------------------|---------------------:|
+| nom vernaculaire            |   Chambre à Antotype |
+| début construction          |        décembre 2022 |
+| nombre de spectateur·ices   |                    1 |
+| taille de l'image           |             50×50 cm |
+| distance de tirage min-max  |      environ 35-55cm |
+| dimensions exterieures      |                    ? |
+| objectif monté              | Process lens APO RONAR RODENSTOCK 9/360 mm |
+
+
+![chambre_anthotype_1](../photos/chambre_antotype_2.JPG)
 
 ## Description générale
-En regardant dans le viseur situé au dessus de cette camera obscura, on découvre une image à l'endroit d'environ 50 cm x 50 cm de ce qui est devant nous. L'écran est amovible et peut être remplacé par une plaque sur laquelle on aura disposé un papier photo-sensible type antotype.
+
+En regardant dans le viseur situé au dessus de cette camera obscura, on découvre une image à l'endroit d'environ 50 cm x 50 cm de ce qui est devant nous.
+
+L'écran est amovible et peut être remplacé par une plaque sur laquelle on aura disposé un papier photo-sensible type antotype.
+
+
 
 ![proto_02](../photos/proto_02_ultralight.jpeg)
+
+
+
 ## Allure
-Une boite noire de forme complexe est fixée sur un pied de projecteur. La forme évoque les chambres moyen-format type rolleiflex. Sur le dessus, on trouve un viseur en forme de lunettes de protection. À l'avant, une vitre protège le miroir et l'objectif.
+
+Une boite noire de forme complexe est fixée sur un pied de projecteur. La forme évoque les chambres moyen-format type rolleiflex. Sur le dessus, on trouve un viseur en forme de lunettes de protection. À l'avant, un soufflet en skaï noir.
+
+![chambre_anthotype_1](../photos/chambre_antotype_1_ultralight.JPG)
 
 ## Matériaux
 
@@ -23,8 +46,13 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. La forme
 - Process lens APO RONAR RODENSTOCK 9/360 mm
 
 ### Accessoires
-- L'objectif fixé sur un clamp coulisse sur un rail Igus
-- Un soufflet provisoire en tissu fixé entre la planchette et le chassis maintient l'obscurité dans la boite.
+- La planchette de l'objectif est montée sur un rail Igus. Sur le côté exterieur de la chambre, une vis permet de régler la mise au point en entrainant la planchette.
+- Un soufflet entre la planchette et le chassis maintient l'obscurité dans la boite.
+
+![animation soufflet](../img/cam02-soufflet-interieur.gif)
+
+*Vue interieur du mécanisme de réglage de mise au point*
+
 
 ## Évaluation des avantages et des inconvénients
 
@@ -37,8 +65,6 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. La forme
 - peu clair
 
 ## Améliorations envisagées
-- fabrication soufflet carton/tissu/cuir
-- déport de point pour faciliter le réglage de la position de l'objectif sur le rail.
 - peinture du chassis
 - vitre de protection et pare-soleil
 - fixation des lunettes

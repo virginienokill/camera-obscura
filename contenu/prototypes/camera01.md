@@ -1,4 +1,15 @@
 #  Les Yeux Dans Le Dos
+
+| prototype n°                |                   01 |
+|-----------------------------|---------------------:|
+| nom vernaculaire            | Les Yeux Dans Le Dos |
+| début construction          |        décembre 2022 |
+| nombre de spectateur·ices   |                    1 |
+| taille de l'image           |             30×30 cm |
+| distance de tirage min-max  |                    ? |
+| dimensions exterieures      |                    ? |
+| objectif monté              | Process lens Zeiss S-TESSAR 5,6/300 |
+
 ![les_yeux_dans_le_dos_4](../photos/les_yeux_dans_le_dos_4_ultralight.JPG)
 
 [une vidéo de test des Yeux dans le dos :](https://vimeo.com/cienokill/cameraobscura-proto01)
