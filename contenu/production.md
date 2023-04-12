@@ -47,27 +47,17 @@ Interlocuteurices :
 
 ## Résidences à venir
 
-### du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons
-courses :
+### du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons et au Fablab de la MJC de Graulhet
 
-- aimants : à coudre 40
-- skaï : en 1,4m - 14 m blanc - 2 m noir
-- coton gratté light : 1,4 - 16 m
-- carton : 24 feuilles de carton. ep : 1mm - dim : 1000 x 700 mm
-- Bache noire pour occulter camion
+- contruction soufflets des cameras 2 et 3
+- contruction du prisme de miroirs en toit d'Amici
+- debut construction camera 4
+- prise de contact avec le Fablab d'Airbus 
+- Amélioration cameras 1 et 2
+- Construction camera 3
+- Tests en exterieur
+- Documentation video avec Mathieu
 
-en préparation :
-- Peinture métal
-- fab lab jeudi 30/3
-- courses
-
-programme résidence:
-
-- lundi 3/4 contruction 1 souflet et finition camera 2
-- mardi 4/4 miroir toit d'Amici et fab lab grand soufflet
-- mercredi et jeudi grands soufflets et adaptation au camion
-- contact fablab Airbus 
-- jeudi test camera 03
 
 ### du 9/5/2023 au 12/5/2023 : Toulouse (31) - QDS
 - Rencontre airbus ?
