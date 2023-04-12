@@ -55,8 +55,7 @@ Une boite noire de forme complexe est fixée sur un pied de projecteur. À haute
 - axe inversé
 
 ## Améliorations envisagées
-- déport de point pour faciliter le reglage de la position de l'objectif sur le rail.
-- peinture du chassis
+- déport de point à l'extérieur pour faciliter le reglage de la position de l'objectif sur le rail.
 - vitre de protection et pare-soleil pour protèger les miroirs et l'objectif.
 
 ## Moment envisagé pour la construction et/ou les améliorations

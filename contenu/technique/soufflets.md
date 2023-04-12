@@ -11,18 +11,26 @@ Bien que le choix du soufflet vienne apporter une solution très satisfaisante a
 - Le choix des materiaux est délicat (robustesse, souplesse, étanchéité, couleur)
 - La construction d'un soufflet est chronophage.
 
+<div style="padding-bottom: 56.25%; max-width: 100%; position: relative;"><iframe src="https://player.vimeo.com/video/816255116?title=0&portrait=0&byline=0" width="800px" height="450px" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe></div>
 
-![patron d'un soufflet](/contenu/plans/soufflet-cam03-A.png)
-![maquette de soufflet](/contenu/photos/maquette_soufflet.jpg)
+*Timelapse de la construction d'un soufflet pour la [camera 03](../prototypes/camera03.md)*
+
 ![animation maquette soufflet](/contenu/img/animation-maquette-soufflet-a.gif)
 ![animation maquette soufflet](/contenu/img/animation-maquette-soufflet-b.gif)
 
+*Maquette de soufflet en papier*
 
 
 
-## Dessiner un soufflet
+## Processus de fabrication
+
+### Dessiner un soufflet
 
 On s'interesse ici à la construction de soufflets "coniques" et "rectangulaires".
+
+![patron d'un soufflet](/contenu/plans/soufflet-cam03-A.png)
+
+*Exemple de patron d'un soufflet*
 
 ### Préparation
 
@@ -47,6 +55,8 @@ Pour coller le soufflet à son support, trois solutions :
 1. Coller à l'exterieur du cadre
 2. Coller à l'interieur du cadre
 3. Coller à plat
+
+**Attention : il est possible qu'une erreur se soit glissée dans les instruction concernant les collages 2 et 3**
 
 Sur le dessin ci dessous la longueur représentée par la flèche désigne ce qu'on appelle la taille du cadre. N.b. selon la manière de coller, ce que l'on désigne par taille du cadre peut faire référence à l'interieur du soufflet (rectangle a travers le quel on regarde) ou faire référence à l'exterieur du soufflet (encombrement du soufflet quand il est plié)
 

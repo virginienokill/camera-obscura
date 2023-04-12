@@ -19,7 +19,9 @@
 - [Tuto de monsieur Smets](https://docplayer.fr/12405417-Fabriquez-votre-soufflet.html)
 - [Article de blog avec photos HD d'un vieu soufflet](https://delalumieredanslatelier.blogspot.com/2019/06/appareil-photo-soufflet-marque-nagel-n.html)
 
+## Animation 
 
+- [Terry Gilliam, cutout anim](https://youtu.be/KOqcHCEqO1k)
 
 ## Photo très grand format
 
@@ -77,6 +79,7 @@
 ## Lanternes magiques
 
 - [Lanternes magiques](https://en.wikipedia.org/wiki/Magic_lantern)
+- [petit Doc en anglais](https://youtu.be/w1XkqtzLfKo)
 
 ## Historique
 
