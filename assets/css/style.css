@@ -168,10 +168,12 @@ td {
 
 
 .image-gallery a {
-  background: white;
   width:30%;
   margin-bottom: 10px;
+}
 
+.image-gallery a.image-thumb {
+  background: white;
 }
 
 @media screen and (max-width: 600px) {
