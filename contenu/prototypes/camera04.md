@@ -6,7 +6,7 @@ Un vehicule type Sprinter Mercedes est transformé en camera obscura en adaptant
 ## Allure
 Un utilitaire avec un soufflet qui dépasse à l'arrière.
 
-![proto_04](../photos/proto_04_ultralight.jpeg)
+![proto_04](../plans/proto_04.jpg)
 
 ## Matériaux
 
@@ -19,7 +19,7 @@ Un utilitaire avec un soufflet qui dépasse à l'arrière.
 ### Objectif
 - Process lens Wray Lustrar 16/1075mm Apo
 
-![wray_lustrar_16_1075mm_1](../photos/wray_lustrar_16_1075mm_1_ultralight.jpg)
+![wray_lustrar_16_1075mm_1](../photos/wray_lustrar_16_1075mm_1.jpg)
 
 ### Accessoires
 - Pour retourner l'image, il est envisagé d'utiliser un prisme en toit d'Amici, fabriqué avec 2 miroirs à 90°.
@@ -39,4 +39,4 @@ Un utilitaire avec un soufflet qui dépasse à l'arrière.
 printemps 2023
 
 ## Détails de construction et description technique
-![cotes proto02](../plans/dim_panneau_sprinter_ultralight.jpeg)
+![cotes proto02](../plans/dim_panneau_sprinter.jpg)

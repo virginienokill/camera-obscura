@@ -21,7 +21,7 @@ L'écran est amovible et peut être remplacé par une plaque sur laquelle on aur
 
 
 
-![proto_02](../photos/proto_02_ultralight.jpeg)
+![proto_02](../plans/proto_02.jpg)
 
 
 
@@ -29,7 +29,7 @@ L'écran est amovible et peut être remplacé par une plaque sur laquelle on aur
 
 Une boite noire de forme complexe est fixée sur un pied de projecteur. La forme évoque les chambres moyen-format type rolleiflex. Sur le dessus, on trouve un viseur en forme de lunettes de protection. À l'avant, un soufflet en skaï noir.
 
-![chambre_anthotype_1](../photos/chambre_antotype_1_ultralight.JPG)
+![chambre_anthotype_1](../photos/chambre_antotype_1.jpg)
 
 ## Matériaux
 
@@ -75,7 +75,7 @@ printemps 2023
 
 ## Détails de construction et description technique
 
-![cotes proto02](../plans/dim_chambre_antotype_ultralight.jpeg)
+![cotes proto02](../plans/dim_chambre_antotype.jpg)
 
 ### Soufflet
 

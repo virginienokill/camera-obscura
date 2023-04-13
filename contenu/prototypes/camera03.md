@@ -22,7 +22,7 @@ En regardant dans le viseur situé à l'arrière de cette camera obscura, on obs
 
 Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur fait office de viseur de champ. Elle est prolongée par un long soufflet blanc construit en deux parties et se termine par le support de l'objectif, lui-même fixé sur un pied. La forme évoque les chambres photographiques ultra grand format. Un pied intermédiaire limite l'affaissement du soufflet.
 
-![proto_03](../photos/proto_03_ultralight.jpeg)
+![proto_03](../plans/proto_03.jpg)
 
 ## Matériaux
 
@@ -32,7 +32,7 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 ### Parois
 - Contreplaqué 5 mm
 
-![chambre_grand_format](../photos/chambre_grand_format_1_ultralight.jpg)
+![chambre_grand_format](../photos/chambre_grand_format_1.jpg)
 
 ### Écran
 - Toile de rétroprojection (translucide/dépoli) tendue sur cadre bois
@@ -40,7 +40,7 @@ Une boite noire de forme pyramidale couchée, fixée sur un pied de projecteur f
 ### Objectif
 - Process lens NIKON APO NIKKOR 9/610mm
 
-![apo_nikkor_9_610mm_2](../photos/apo_nikkor_9_610mm_2_ultralight.jpg)
+![apo_nikkor_9_610mm_2](../photos/apo_nikkor_9_610mm_2.jpg)
 
 ### Accessoires
 
@@ -70,7 +70,7 @@ printemps 2023
 
 ## Détails de construction et description technique
 
-![cotes proto02](../plans/dim_chambre_grand_format_ultralight.jpeg)
+![cotes proto02](../plans/dim_chambre_grand_format.jpg)
 
 ### Soufflet
 

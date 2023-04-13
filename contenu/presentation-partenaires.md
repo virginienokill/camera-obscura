@@ -4,8 +4,8 @@
 *Camera Obscura* est un projet de théâtre optique itinérant dont la première est prévue pour l'été 2024.
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;">
-<img alt="illustration camera obscura" src="/contenu/macarons/thumb_9.png"/>
-<img alt="illustration camera obscura" src="/contenu/macarons/thumb_10.png"/>
+<img alt="illustration camera obscura" src="/contenu/dessins/macaron_thumb_9.png"/>
+<img alt="illustration camera obscura" src="/contenu/dessins/macaron_thumb_10.png"/>
 </div>
 
 ## En résumé
@@ -15,8 +15,8 @@ Une salle de cinéma est posée dans l'espace public, une vingtaine de spectateu
 La particularité de ce film est qu'il est produit sans pellicule, ni vidéo, ni électricité, et qu'il n'utilise comme énergie que celle du soleil et des comédiens.
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;">
-<img alt="illustration camera obscura" src="/contenu/macarons/thumb_1.png"/>
-<img alt="illustration camera obscura" src="/contenu/macarons/thumb_2.png"/>
+<img alt="illustration camera obscura" src="/contenu/dessins/macaron_thumb_1.png"/>
+<img alt="illustration camera obscura" src="/contenu/dessins/macaron_thumb_2.png"/>
 </div>
 
 Les images sont des captations du monde extérieur qui transitent par un dispositif optique fait d'objectifs, de prismes et de miroirs. Les sons et la musique sont produits et interprétés en direct grâce à un ensemble d'instruments acoustiques et mécaniques.
@@ -38,8 +38,8 @@ Ce projet s'accompagne d'un grand nombre de défis techniques dans des domaines 
 Pour relever ces défis, nous cherchons activement des partenaires : des interlocuteurs pour la conception, mais aussi des lieux et des moyens de fabrication, et des circuits d'achat ou de récupération de matériel.
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;">
-<img alt="illustration camera obscura" src="/contenu/macarons/thumb_7.png"/>
-<img alt="illustration camera obscura" src="/contenu/macarons/thumb_8.png"/>
+<img alt="illustration camera obscura" src="/contenu/dessins/macaron_thumb_7.png"/>
+<img alt="illustration camera obscura" src="/contenu/dessins/macaron_thumb_8.png"/>
 </div>
 
 ## La compagnie Nokill
@@ -51,6 +51,6 @@ Pour relever ces défis, nous cherchons activement des partenaires : des interlo
 Comme nous avons eu l'occasion de le faire pour [*Turing Test*](http://turing-test.cienokill.fr/), nous documentons l'intégralité du processus de création sur [un site dédié à *Camera Obscura*](https://camera-obscura.cienokill.fr/), vous pourrez y trouver du contenu concernant les différents aspects du spectacle (technique, artistique, production). Nous sommes aussi disponibles pour échanger [par mail](http://cienokill.fr/contact/) ou en visio, pour répondre à vos questions et vous parler du projet plus en détail.
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;">
-<img alt="illustration camera obscura" src="/contenu/macarons/thumb_3.png"/>
-<img alt="illustration camera obscura" src="/contenu/macarons/thumb_4.png"/>
+<img alt="illustration camera obscura" src="/contenu/dessins/macaron_thumb_3.png"/>
+<img alt="illustration camera obscura" src="/contenu/dessins/macaron_thumb_4.png"/>
 </div>

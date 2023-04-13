@@ -14,6 +14,16 @@
             <span>{{ file.path }}</span>
             </a>
 
+        {% elsif file.extname == '.svg' or 
+        file.extname == '.pdf' or 
+        file.extname == '.xcf' or 
+        file.extname == '.dxf' %}
+
+            <a href="{{ file.path }}" title="{{ filename }}">
+            <img src="/assets/img/file{{file.extname}}.png"/>
+            <span>{{ file.path }}</span>
+            </a>
+
         {% else %}
 
             <a href="{{ file.path }}" title="{{ filename }}">

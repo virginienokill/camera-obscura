@@ -10,17 +10,17 @@
 | dimensions exterieures      |                    ? |
 | objectif monté              | Helios 44-2 / 2/58mm |
 
-![mini_chambre_2](../photos/mini_chambre_2_ultralight.jpg)
+![mini_chambre_2](../photos/mini_chambre_2.jpg)
 
 ## Description générale
 En regardant à l'intérieur de cette camera obscura, on découvre une image à l'endroit d'environ 4 cm x 4 cm de ce qui est devant nous.
 
-![proto_0](../photos/proto_00V2_ultralight.jpg)
+![proto_0](../plans/proto_00V2.jpg)
 
 ## Allure
 Une boite noire de forme parallélépipédique. L'image est projetée sur un dépoli à l'arrière du tube. Un prisme de Dove est placé devant l'objectif.
 
-![mini_chambre_3](../photos/mini_chambre_3_ultralight.jpg)
+![mini_chambre_3](../photos/mini_chambre_3.jpg)
 ## Matériaux
 
 ### Parois

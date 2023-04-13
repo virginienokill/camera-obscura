@@ -11,7 +11,7 @@ Une remorque est transformée en cinéma itinérant en adaptant l'arrière du v�
 ## Allure
 Une remorque avec un soufflet qui dépasse à l'arrière.
 
-![proto_05](../photos/proto_05_ultralight.jpeg)
+![proto_05](../plans/proto_05.jpg)
 ## Matériaux
 
 ### Chassis
@@ -73,6 +73,6 @@ largeur accoudoir : 60
 
 [plan chassis remorque](../plans/doc_bw_tiny_house_ch600.pdf)
 
-![plan chassis remorque](../plans/doc_bw_tiny_house_ch600_ultralight.jpg)
+![plan chassis remorque](../plans/doc_bw_tiny_house_ch600.jpg)
 
 ![plan cotes remorque](../plans/dim_chambre_remorque_v3.jpeg)

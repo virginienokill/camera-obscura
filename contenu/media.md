@@ -12,7 +12,7 @@ Les vidéos sont hébergées sur Vimeo et rassemblée dans [un showcase nommé C
 
 # Images
 
-Les images sont réparties dans 5 dossiers. Elles sont hébergées sur le git. Les images en bitmap (non vectorielles) sont compréssées pour alleger le site.
+Les images sont réparties dans 4 dossiers. Elles sont hébergées sur le git. Les images en bitmap (non vectorielles) sont compréssées pour alleger le site.
 
 ## Photos
 
@@ -31,12 +31,6 @@ le dossier [`plans/`](https://github.com/LeonLenclos/camera-obscura/tree/main/co
 le dossier [`dessins/`](https://github.com/LeonLenclos/camera-obscura/tree/main/contenu/dessins) contient les dessins non-technique et les illustrations.
 
 {% include gallery.html folder="/contenu/dessins/" %}
-
-## Macarons
-
-le dossier [`macarons/`](https://github.com/LeonLenclos/camera-obscura/tree/main/contenu/macarons) contient les dessins utilisés dans le premier dossier de création, ce sont des vigettes rondes en noir et blanc.
-
-{% include gallery.html folder="/contenu/macarons/" %}
 
 ## Img
 

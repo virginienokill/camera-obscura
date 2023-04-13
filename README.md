@@ -19,4 +19,4 @@ Même si à la base cette documentation est un outil de travail personnel, nous 
 - [Media](contenu/media.md), liste de tous les media liés à la documentation de la création.
 
 
-![Dessin de la remorque](contenu/macarons/camera-obscura.png)
+![Dessin de la remorque](contenu/dessins/macaron_thumb_9.png)
