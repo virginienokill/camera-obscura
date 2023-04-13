@@ -194,3 +194,20 @@ font-size: small;
   word-wrap: break-word;
   margin:5px;
 } 
+
+
+
+footer {
+  margin:12px;
+}
+
+footer * {
+  font-size: small;
+  color: var(--DGR)
+}
+
+footer p {
+  margin: 0;
+  margin-top:3px;
+  text-align: center;
+}
