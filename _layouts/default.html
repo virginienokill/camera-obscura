@@ -32,12 +32,17 @@
         </nav>
       </header>
       <div id="main" role="main">
+        {% include back.html folder=page.dir %}
         <article class="markdown-body">
           {{ content }}
         </article>
+        {% include back.html folder=page.dir %}
       </div>
     </div>
     <footer>
+      <p>Dernière mise à jour du site le {{ "now" | date: "%d/%m/%Y"  }}.</p>
+      <p>Ce travail est placé sous <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">License Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.</p>
+      <p><a href="https://cienokill.fr">Cie NOKILL</a> 2022 - {{"now" | date: "%Y"}}</p>
     </footer>
   </div>
 </body>

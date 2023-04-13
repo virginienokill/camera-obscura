@@ -1,0 +1,13 @@
+{% assign path=include.folder}
+
+{% if include.folder=="/contenu/prototypes/" %}
+    {% assign name="<em>Prototypes</em>"}
+{% elsif include.folder=="/contenu/technique/" %}
+    {% assign name="<em>Technique</em>"}
+{% elsif include.folder=="/contenu/ecriture/" %}
+    {% assign name="<em>Écriture</em>"}
+{% else %}
+    {% assign path="/"}
+    {% assign name="d'accueil"}
+{% endif %}
+<a class="back" href="{{path}}">Retour à la page {{name}}</a>
