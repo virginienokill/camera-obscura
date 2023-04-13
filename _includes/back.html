@@ -1,11 +1,11 @@
 {% assign path=include.folder}
 
-{% if include.folder=="/contenu/prototypes/" %}
-    {% assign name="<em>Prototypes</em>" %}
-{% elsif include.folder=="/contenu/technique/" %}
-    {% assign name="<em>Technique</em>" %}
-{% elsif include.folder=="/contenu/ecriture/" %}
-    {% assign name="<em>Écriture</em>" %}
+{% if path=="/contenu/prototypes/" %}
+    {% assign name="Prototypes" %}
+{% elsif path=="/contenu/technique/" %}
+    {% assign name="Technique" %}
+{% elsif path=="/contenu/ecriture/" %}
+    {% assign name="Écriture" %}
 {% else %}
     {% assign path="/" %}
     {% assign name="d'accueil" %}
