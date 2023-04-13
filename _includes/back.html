@@ -1,6 +1,9 @@
 {% assign path = include.folder %}
 
-{% if path == "/contenu/prototypes/" %}
+{% if page.name == "README.md" %}
+    {% assign path = "/" %}
+    {% assign name = "d'accueil" %}
+{% elsif path == "/contenu/prototypes/" %}
     {% assign name = "Prototypes" %}
 {% elsif path == "/contenu/technique/" %}
     {% assign name = "Technique" %}
@@ -10,4 +13,7 @@
     {% assign path = "/" %}
     {% assign name = "d'accueil" %}
 {% endif %}
-<a class="back" href="{{path}}">Retour à la page {{name}}</a>
+
+{% unless include.folder == "/" %}
+    <a class="back" href="{{path}}">Retour à la page {{name}}</a>
+{% endif %}
