@@ -22,15 +22,6 @@ Par exemple quand je suis assis à une table, j'imagine d'autres objets posés d
 
 On peut aller très loin comme ça. En fait tout est possible, le tout c'est de pratiquer tous les jours."
 
-        Maintenant que j'y repense j'aurais pu 
-        Sur le moment je n'ai pas compris ce qu'il voulais dire par "On peut aller très loin comme ça." Ça semblait être bien plus loin que tout ce que je pouvais imaginer.
-
-        Bien plus loin que tu ne le pense.
-
-        Sur le moment je n'ai pas exactement compris
-
-        "Et ça tu vois, c'est le genre de truc qu'on t'apprend pas à l'école. Enfait c'est même le genre de truc qu'on te désaprend quand t'es enfant."
-
 
 ## Séquence : L'hiver.
 

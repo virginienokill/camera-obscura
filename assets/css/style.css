@@ -59,9 +59,7 @@ body {
 
 }
 
-.scenario{
-  font-family: 'Tt-Kp', monospace;
-}
+
 
 @media screen and (max-width: 600px) {
   .markdown-body{
@@ -229,4 +227,40 @@ footer p {
   margin-top:3px;
   text-align: center;
 }
+
+
+.scenario{
+  font-family: 'Tt-Kp', monospace;
+  
+}
+
+.scenario * {
+  font-size :12pt;
+  font-style: normal;
+}
+
+.scenario p {
+  margin-left: 40px;
+}
+
+
+.scenario em {
+  display: block;
+  margin-left: -40px;
+}
+
+.scenario strong {
+  display: block;
+  text-align: center;
+}
+
+.scenario h1,
+.scenario h2,
+.scenario h3,
+.scenario h4 {
+  text-transform: uppercase;
+}
+
+
+
 
