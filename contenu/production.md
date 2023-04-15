@@ -87,7 +87,7 @@ Maxeville (Michto) ou accueil en Occitanie.
 
 ### printemps 2024 : Nimes (30) - Périscope
 - écriture et mise en scène
-
+- "Un atelier collectif autour de la création d'un court film qui utilise certaines des techniques en jeu dans la création en cours Camera Obscura. Les techniques en question se situant quelque part entre papier decoupé, théâtre d'ombre et lanterne magique."
 ### Juin juillet 2024 : Tarbes (65) - Le Parvis
 - mise en scène
 

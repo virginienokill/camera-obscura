@@ -2,7 +2,7 @@
 
 Deux options pour construire le film. Dans les deux cas on a enchaîne des fragments, des notes. On change de cadre spatiotemporel et de ton comme de chemise. Mais la question est de savoir comment ces fragments sont reliés.
 
-## schéma narratif classique
+## schéma narratif classique
 
 Raconter une histoire en suivant un schéma narratif classique situation innitialen, complication, résolution.
 
