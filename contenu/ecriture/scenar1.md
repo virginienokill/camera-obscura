@@ -1,3 +1,7 @@
+---
+type: scenario
+---
+
 *Plan large d'une place animée d'un centre ville. Des enfants courent, des passants passent, d'autres sont assis sur des bancs ou sur des marches.*
 
 **VOIX OFF**

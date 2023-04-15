@@ -1,4 +1,20 @@
 @font-face {
+    font-family: 'Tt-Kp';
+    src: url('TT-KP-ME.TTF') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tt-Kp';
+    src: url('TT-KP-RE.TTF') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'Linux Libertine Capitals';
     src: url('LinLibertineCapitalsB.woff2') format('woff2'),
         url('LinLibertineCapitalsB.woff') format('woff');

@@ -1,4 +1,4 @@
-{% assign path = include.folder %}
+{% assign path = page.dir %}
 
 {% if page.name == "README.md" %}
     {% assign path = "/" %}
@@ -14,6 +14,6 @@
     {% assign name = "d'accueil" %}
 {% endif %}
 
-{% unless include.folder == "/" %}
+{% unless page.dir == "/" %}
     <a class="back" href="{{path}}">Retour à la page {{name}}</a>
 {% endunless %}

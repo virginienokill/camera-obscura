@@ -37,7 +37,7 @@ https://lospec.com/palette-list/oil-6 */
 }
 
 body {
- font-family: 'Linux Libertine';
+ font-family: 'Linux Libertine', serif;
  font-size:12pt;
  background:var(--BLK);
  animation-duration: 10s;
@@ -49,11 +49,9 @@ body {
 #main{
    animation-duration: 10s;
  animation-name: adaptationshadow;
-
  background:var(--WHT);
  color:var(--BLK);
  margin:5px;
-
 }
 
 .markdown-body{
@@ -61,6 +59,9 @@ body {
 
 }
 
+.scenario{
+  font-family: 'Tt-Kp', monospace;
+}
 
 @media screen and (max-width: 600px) {
   .markdown-body{

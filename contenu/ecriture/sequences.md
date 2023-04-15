@@ -1,3 +1,7 @@
+---
+type: scenario
+---
+
 ## Séquence : Camionnette rouge
 
 *2D : Une camionette roule sur une route bordée d'arbres*
