@@ -13,7 +13,8 @@
 ![les_yeux_dans_le_dos_4](../photos/les_yeux_dans_le_dos_4.jpg)
 
 [une vidéo de test des Yeux dans le dos :](https://vimeo.com/cienokill/cameraobscura-proto01)
-<iframe src="https://player.vimeo.com/video/809841929?h=765a6933ab" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<div style="padding-bottom: 56.25%; max-width: 100%; position: relative;"><iframe src="https://player.vimeo.com/video/809841929?title=0&portrait=0&byline=0" width="800px" height="450px" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe></div>
 
 
 ## Description générale
