@@ -76,7 +76,7 @@ Interlocuteurices :
 Maxeville (Michto) ou accueil en Occitanie. 
 - construction remorque
 
-### Novembre 2023 ou avril 2024 : Assier (46) - Des clous
+### du 30/10/2023 au 5/11/2023 : Assier (46) - Des clous
 - écriture et aménagement remorque
 
 ### fin hiver/printemps 2024 (du 15 au 26 avril) : Auch (32) - Circa
