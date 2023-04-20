@@ -8,12 +8,16 @@
 
 ### Construction
 
-- Rendez-vous Arnaud pour conceils construction remorque
+
+AVANT RESIDENCE QUAI 9/5/2023
 - Renforcer les soufflets (3h)
-- Concevoir Porte-planchette pour le grand soufflet. (plusieurs objectifs)
-- Fabriquer planchettes pour les differents objectifs et lentilles.
 - Fixation chassis au camion (equette à fixer sur la taule)
 - Acheter/Tailler/Fixer bache pour le camion. (+ aimants)
-- Réparer le gramophone.
+- Concevoir Porte-planchette pour le grand soufflet. (plusieurs objectifs)
+- Fabriquer planchettes pour les differents objectifs et lentilles.
 - Avancer sur les plans de la remorque.
 - Acheter 1 miroir ultra clair pour essais double-image et essai 2D
+- Rendez-vous Arnaud pour conseils construction remorque
+
+APRÈS RESIDENCE QUAI 9/5/2023
+- réparer gramophone
