@@ -32,36 +32,36 @@ Interlocuteurices :
 
 ### du 7/12/2022 au 14/12/2022 : Graulhet (81) - Nokill
 - construction maquette "les yeux dans le dos"
-- début construction chambre à antotypes
+- début construction chambre à anthotypes
 
 ### du 2/3/2023 au 4/3/2022 : Graulhet (81) - Nokill
-- finitions chambre à antotype
-- debut construction chambre grand format
-- debut construction double miroir
+- finitions chambre à anthotype
+- début construction chambre grand format
+- début construction double miroir
 
 ### du 6/3/2023 au 8/3/2022 : Toulouse (31) - QDS
 - Améliorations protos
 - Recherches autour du soufflet
 - Documentation des protos
-- Tests en exterieur
+- Tests en extérieur
 
 
 ### du 1/4/2023 au 6/4/2023 : Graulhet (81) - Chez Pons et au Fablab de la MJC de Graulhet
 
-- contruction soufflets des cameras 2 et 3
-- contruction du prisme de miroirs en toit d'Amici
-- debut construction camera 4
+- construction soufflets des cameras 2 et 3
+- construction du prisme de miroirs en toit d'Amici
+- début construction camera 4
 - prise de contact avec le Fablab d'Airbus 
 - Amélioration cameras 1 et 2
 - Construction camera 3
-- Tests en exterieur
-- Documentation video avec Mathieu
+- Tests en extérieur
+- Documentation vidéo avec Mathieu
 
 ## Résidences à venir
 
 
 ### du 9/5/2023 au 12/5/2023 : Toulouse (31) - QDS
-- Rencontre airbus ?
+- Rencontre Airbus ?
 
 ### du 10/6/2023 au 18/6/2023 : Mirepoix (09) - Mima
 - test camion
