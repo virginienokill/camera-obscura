@@ -6,7 +6,7 @@ type: scenario
 
 **VOIX OFF**
 
-L’homme que vous voyez là bas au milieu de l’écran qui fume une cigarette assis à côté du type avec une chemise rose, c’est moi. J’ai eu une matinée difficile, pas mal de problèmes au boulot et je viens volontairement d'ignorer un appel téléphonique de mon chef. C’est la première fois que je fais ça...
+L’homme que vous voyez là-bas au milieu de l’écran qui fume une cigarette assis à côté du type avec une chemise rose, c’est moi. J’ai eu une matinée difficile, pas mal de problèmes au boulot et je viens volontairement d'ignorer un appel téléphonique de mon chef. C’est la première fois que je fais ça...
 
 Non pardon, c’est une blague en vrai je suis le type avec la chemise rose.
 
@@ -14,7 +14,7 @@ Non pardon, c’est une blague en vrai je suis le type avec la chemise rose.
 
 **VOIX OFF**
 
-Je m’ennuie et comme souvent quand je m’ennuie je choisis un passant au hasard et je fais semblant d’être lui. J'imagine sa vie, je me raconte son histoire. Ça fait une demi heure que je joue à ça et je commence à en avoir marre, j’aimerais bien trouver une idée plus amusante...
+Je m’ennuie et comme souvent quand je m’ennuie je choisis un passant au hasard et je fais semblant d’être lui. J'imagine sa vie, je me raconte son histoire. Ça fait une demi-heure que je joue à ça et je commence à en avoir marre, j’aimerais bien trouver une idée plus amusante...
 
 C'est toujours pareil quand je cherche une idée, plus je réfléchis, plus je me concentre et plus c'est le vide dans ma tête. J'ai pas l'impression que ce soit pareil pour tout le monde...
 
@@ -38,7 +38,7 @@ J’ai une idée ! On va se marrer. Je vais faire semblant que je vois une souco
 
 **VOIX OFF**
 
-Je crois que j'ai un genre de syndrome de Capgras. Vous avez entendu parlé du syndrome de Capgras ? C'est horrible. C'est quand on pense qu'on est entouré d'imposteurs qui se font passer pour des proches. 
+Je crois que j'ai un genre de syndrome de Capgras. Vous avez entendu parler du syndrome de Capgras ? C'est horrible. C'est quand on pense qu'on est entouré d'imposteurs qui se font passer pour des proches. 
 
 *L'homme regarde la foule autour de lui.*
 
@@ -82,7 +82,7 @@ J’ai une idée, je vais faire semblant qu’il y a de la musique. On va voir, 
 
 **VOIX OFF**
 
-La dernière fois fois que j'ai dansé la valse avec une inconnue c'était place Rouge à Moscou.
+La dernière fois que j'ai dansé la valse avec une inconnue c'était place Rouge à Moscou.
 
 *De la neige tombe sur les danseurs qui sont maintenant sur la place Rouge.*
 
