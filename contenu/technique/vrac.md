@@ -1,3 +1,3 @@
-- Lyre retournement
+- lyre retournement
 - hublot iris
-- est ce qu'on peut graver des disques pour grammophone
+- est-ce qu'on peut graver des disques pour gramophone
