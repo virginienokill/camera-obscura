@@ -1,7 +1,7 @@
 # Les soufflets
 
 Pour effectuer la mise au point et lorsque l'on change de focale, il faut changer la distance entre l'écran et l'optique.
-Or, quelque soit la position de l'optique par rapport à l'écran, il faut que la chambre reste hermetique à la lumière.
+Or, quelque soit la position de l'optique par rapport à l'écran, il faut que la chambre reste hermétique à la lumière.
 
 Pour concilier étancheité du dispositif et possibilité varier la position relative des deux parties,
 la solution traditionnellement utilisée pour les chambres noires photographiques (mais aussi pour les accordéons et les autobus articulés) est celle du soufflet.
