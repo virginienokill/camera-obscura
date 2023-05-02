@@ -11,8 +11,7 @@ Bien que le choix du soufflet vienne apporter une solution très satisfaisante a
 - Le choix des materiaux est délicat (robustesse, souplesse, étanchéité, couleur)
 - La construction d'un soufflet est chronophage.
 
-<div style="padding-bottom: 56.25%; max-width: 100%; position: relative;">
-  <iframe> src="https://player.vimeo.com/video/816255116?title=0&portrait=0&byline=0" width="800px" height="450px" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe></div>
+<div style="padding-bottom: 56.25%; max-width: 100%; position: relative;"><iframe src="https://player.vimeo.com/video/816255116?title=0&portrait=0&byline=0" width="800px" height="450px" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe></div>
 
 *Timelapse de la construction d'un soufflet pour la [camera 03](../prototypes/camera03.md)*
 
