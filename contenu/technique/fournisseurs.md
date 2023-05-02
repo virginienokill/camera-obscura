@@ -1,7 +1,7 @@
 
 
 
-## Optique, objectif, prisme, verre
+## Optiques, objectifs, prismes, verre
 
 - [Camley](www.camleyphotographic.com/)
 - [Coprover](https://www.coprover.fr/)
