@@ -44,7 +44,7 @@ Pour relever ces défis, nous cherchons activement des partenaires : des interlo
 
 ## La compagnie Nokill
 
-*Camera Obscura* sera le cinquième spectacle de notre compagnie. Dans les spectacles précédents dont les teaser et les descriptions sont disponibles sur [le site de la compagnie Nokill](http://cienokill.fr/), nous convoquons régulièrement sur scène des dispositifs techniques qui nous servent de supports pour raconter des histoires, des robots dans [*Turing Test*](http://turing-test.cienokill.fr/), des machines pré-cinématographiques dans [*L'Envol*](http://cienokill.fr/spectacles/lenvol/), des hologrammes dans [*Elektra*](http://cienokill.fr/spectacles/elektra/). *Camera Obscura* s'inscrit dans la continuité de cette démarche.
+*Camera Obscura* sera le cinquième spectacle de notre compagnie. Dans les spectacles précédents dont les teasers et les descriptions sont disponibles sur [le site de la compagnie Nokill](http://cienokill.fr/), nous convoquons régulièrement sur scène des dispositifs techniques qui nous servent de supports pour raconter des histoires, des robots dans [*Turing Test*](http://turing-test.cienokill.fr/), des machines pré-cinématographiques dans [*L'Envol*](http://cienokill.fr/spectacles/lenvol/), des hologrammes dans [*Elektra*](http://cienokill.fr/spectacles/elektra/). *Camera Obscura* s'inscrit dans la continuité de cette démarche.
 
 ## La documentation du spectacle
 
