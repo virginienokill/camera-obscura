@@ -3,10 +3,10 @@
 ## Théorie
 
 - [Schema interactifs d'optique géométrique](https://phyanim.sciences.univ-nantes.fr/optiqueGeo/index.php)
-- [chaîne youtube de photo avec pas mal de contenu intéressant](https://youtube.com/@PhotoGraal)
+- [chaîne youtube de photo avec pas mal de contenus intéressants](https://youtube.com/@PhotoGraal)
 - [geogebra](https://www.geogebra.org/calculator/hahmryyn)
-- [logiciel (payant) pour creer des optiques](https://www.zemax.com/)
-- [bouquin theorique](https://www.babelio.com/livres/Houard-Optique/898680)
+- [logiciel (payant) pour créer des optiques](https://www.zemax.com/)
+- [bouquins théoriques](https://www.babelio.com/livres/Houard-Optique/898680)
 
 ## Gramophone
 
@@ -17,7 +17,7 @@
 - [Tuto détaillé général](https://www.galerie-photo.com/construire-soufflet-chambre-photo.html)
 - [Tuto plus précis](http://www.disactis.com/soufflet/soufflet.php)
 - [Tuto de monsieur Smets](https://docplayer.fr/12405417-Fabriquez-votre-soufflet.html)
-- [Article de blog avec photos HD d'un vieu soufflet](https://delalumieredanslatelier.blogspot.com/2019/06/appareil-photo-soufflet-marque-nagel-n.html)
+- [Article de blog avec photos HD d'un vieux soufflet](https://delalumieredanslatelier.blogspot.com/2019/06/appareil-photo-soufflet-marque-nagel-n.html)
 
 ## Animation 
 
@@ -27,12 +27,12 @@
 
 - [Article sur des photographes très grand format](https://fstoppers.com/diy/photographer-creates-gigantic-ultra-large-format-digital-camera-571295)
 - [Article de blog sur l'ultra-grand format](https://photographylife.com/ultra-large-format-cameras)
-- [Definition de process lens discutée sur un forum de photo](https://www.photo.net/forums/topic/48909-what-is-a-process-lens/)
-- [John Chiara photographe qui a une CO remorque pour faire du tres grand format](https://www.johnchiara.com/films)
+- [Définition de process lens discutée sur un forum de photo](https://www.photo.net/forums/topic/48909-what-is-a-process-lens/)
+- [John Chiara photographe qui a une CO remorque pour faire du très grand format](https://www.johnchiara.com/films)
 
-## Objectifs tres grands formats / process lens
+## Objectifs très grands formats / process lens
 
-- [Doc technique détaillé sur les objectifs grans formats de Rodenstock](http://www.dmin-dmax.fr/chambre/archives_techniques/rodenstock_2000.html)
+- [Doc technique détaillée sur les objectifs grands formats de Rodenstock](http://www.dmin-dmax.fr/chambre/archives_techniques/rodenstock_2000.html)
 
 ## Sténopé 
 
@@ -44,14 +44,14 @@
 
 - [Discussion autour du papier inversible sur un forum de photo ](http://www.galerie-photo.info/forumgp/read.php?3,239522)
 - [DIRECT POSITIVE PAPER harman chez Ilford](https://www.ilfordphoto.com/harman-direct-positive-paper-roll)
-- [direct positiv paper, differntes refs (eshop)](https://www.macodirect.de/en/paper/direct-positive-papers/)
+- [direct positiv paper, différentes refs (eshop)](https://www.macodirect.de/en/paper/direct-positive-papers/)
 
 
 ## Camera obscura
 
 - [Camera Obscura & World of Illusions , un musée à Édinburgh](https://www.camera-obscura.co.uk/attractions/the-camera-obscura)
 - [Site très riche à propos de la CO par un restaurateur/créateur de CO](http://www.camera-obscura.org.uk/Camera_Obscura/Welcome.html)
-- [Thomas Mezzanotte, Artiste aillant notament construit une CO dans une sorte de tente](https://thomas-mezzanotte.squarespace.com/)
+- [Thomas Mezzanotte, artiste ayant notamment construit une CO dans une sorte de tente](https://thomas-mezzanotte.squarespace.com/)
 - [Double CO sur un bateau sur le danube](https://olafureliasson.net/artwork/camera-obscura-fuer-die-donau-2004/)
 - [CO sur une plage vers San Fransisco](https://youtu.be/qvwpDIlN25o)
 
@@ -64,8 +64,8 @@
 
 - [Prisme en toit d'Amici](https://fr.wikipedia.org/wiki/Prisme_en_toit_d%27Amici)
 - [La boutique](https://store.truemirror.com/)
-- [La video ou le createur dit qu'il utilise des first surface mirror](https://www.youtube.com/watch?v=oHeOf9MZ49o)
-- [la video du mec là](https://www.youtube.com/watch?v=x2owiSx0biU)
+- [La vidéo où le createur dit qu'il utilise des first surface mirror](https://www.youtube.com/watch?v=oHeOf9MZ49o)
+- [la vidéo du mec là](https://www.youtube.com/watch?v=x2owiSx0biU)
 
 ## First surface mirror
 
@@ -87,7 +87,7 @@
 
 ## Antotypes
 
-- [Anthotypes: explore the darkroom in your gardern - Le livre de ref](http://leonlenclos.net/pro/pirate/anthotypes-explore-the-darkroom-in-your-garden-and-make-photographs-using-plants-1466261005-9781466261006_compress.pdf)
+- [Anthotypes: explore the darkroom in your garden - Le livre de ref](http://leonlenclos.net/pro/pirate/anthotypes-explore-the-darkroom-in-your-garden-and-make-photographs-using-plants-1466261005-9781466261006_compress.pdf)
 - [Recette à base d'épinard](http://wiki.scienceamusante.net/index.php/Les_anthotypes)
 - [Le végétal est photographie (Mémoire)](https://www.esam-c2.fr/IMG/UserFiles/docs/memoires/2017_pelletier_marieve.pdf)
-- [Mary Somerville, inventeuse oubliée de l'antotypie ](https://en.wikipedia.org/wiki/Mary_Somerville)
+- [Mary Somerville, inventeuse oubliée de l'anthotypie ](https://en.wikipedia.org/wiki/Mary_Somerville)
